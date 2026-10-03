@@ -23,11 +23,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * 30-seconds-of-swift-code/
   * elizabethsiegle/- [README.md](http://github.com/elizabethsiegle/30-seconds-of-swift-code/blob/master/README.md) ⭐ 538 | 🐛 2 | 🌐 Swift | 📅 2020-10-24
 * 52-technologies-in-2016/
-  * shekhargulati/- [README.md](http://github.com/shekhargulati/52-technologies-in-2016/blob/master/README.md) ⭐ 7,320 | 🐛 48 | 🌐 JavaScript | 📅 2022-10-18
+  * shekhargulati/- [README.md](http://github.com/shekhargulati/52-technologies-in-2016/blob/master/README.md) ⭐ 7,321 | 🐛 48 | 🌐 JavaScript | 📅 2022-10-18
 * alfred-awesome-lists/
   * nikitavoloboev/- [README.md](http://github.com/nikitavoloboev/alfred-awesome-lists/blob/master/README.md) ⭐ 174 | 🐛 5 | 🌐 Go | 📅 2024-01-21
 * alfred-workflows/
-  * learn-anything/- [README.md](http://github.com/learn-anything/alfred-workflows/blob/master/README.md) ⭐ 2,775 | 🐛 4 | 📅 2026-05-01
+  * learn-anything/- [README.md](http://github.com/learn-anything/alfred-workflows/blob/master/README.md) ⭐ 2,776 | 🐛 4 | 📅 2026-05-01
 * amac/
   * jaywcjlove/- [README.md](http://github.com/jaywcjlove/amac/blob/master/README.md) ⭐ 219 | 🐛 13 | 🌐 JavaScript | 📅 2023-12-15
 * amas/
@@ -35,29 +35,29 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * analytics-readings/
   * flpezet/- [README.md](http://github.com/flpezet/analytics-readings/blob/master/README.md) ⭐ 256 | 🐛 1 | 📅 2022-11-28
 * android-debug-database/
-  * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/android-debug-database/blob/master/README.md) ⭐ 8,686 | 🐛 83 | 🌐 Java | 📅 2026-02-05
+  * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/android-debug-database/blob/master/README.md) ⭐ 8,687 | 🐛 83 | 🌐 Java | 📅 2026-02-05
 * android-dev-bookmarks/
-  * zhengxiaopeng/- [README.md](http://github.com/zhengxiaopeng/android-dev-bookmarks/blob/master/README.md) ⭐ 1,049 | 🐛 4 | 🌐 HTML | 📅 2017-01-14
+  * zhengxiaopeng/- [README.md](http://github.com/zhengxiaopeng/android-dev-bookmarks/blob/master/README.md) ⭐ 1,048 | 🐛 4 | 🌐 HTML | 📅 2017-01-14
 * android-hot-libraries/
   * senhlinsh/- [README.md](http://github.com/senhlinsh/android-hot-libraries/blob/master/README.md) ⭐ 1,324 | 🐛 0 | 📅 2022-06-05
 * android-mvp-sample-application/
   * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/android-mvp-sample-application/blob/master/README.md) ⭐ 258 | 🐛 2 | 🌐 Java | 📅 2024-07-20
 * android-security-awesome/
-  * ashishb/- [README.md](http://github.com/ashishb/android-security-awesome/blob/master/README.md) ⭐ 9,722 | 🐛 0 | 🌐 Makefile | 📅 2026-10-01
+  * ashishb/- [README.md](http://github.com/ashishb/android-security-awesome/blob/master/README.md) ⭐ 9,723 | 🐛 0 | 🌐 Makefile | 📅 2026-10-01
 * android\_data/
   * freelander/- [README.md](http://github.com/freelander/android_data/blob/master/README.md) ⭐ 8,952 | 🐛 10 | 🌐 Java | 📅 2024-01-15
 * angular-awesome-list/
   * angular-ru/- [README.md](http://github.com/angular-ru/angular-awesome-list/blob/master/README.md) ⭐ 305 | 🐛 0 | 📅 2021-07-12
 * animatefx/
-  * typhon0/- [README.md](http://github.com/typhon0/animatefx/blob/master/README.md) ⭐ 517 | 🐛 1 | 🌐 Java | 📅 2026-05-29
+  * typhon0/- [README.md](http://github.com/typhon0/animatefx/blob/master/README.md) ⭐ 518 | 🐛 1 | 🌐 Java | 📅 2026-05-29
 * anything\_about\_game/
-  * killop/- [README.md](http://github.com/killop/anything_about_game/blob/master/README.md) ⭐ 4,142 | 🐛 0 | 📅 2026-09-21
+  * killop/- [README.md](http://github.com/killop/anything_about_game/blob/master/README.md) ⭐ 4,143 | 🐛 0 | 📅 2026-09-21
 * arl/
-  * kaxap/- [README.md](http://github.com/kaxap/arl/blob/master/README.md) ⭐ 2,091 | 🐛 38 | 🌐 Python | 📅 2025-05-27
+  * kaxap/- [README.md](http://github.com/kaxap/arl/blob/master/README.md) ⭐ 2,090 | 🐛 38 | 🌐 Python | 📅 2025-05-27
 * audio\_recorder/
   * zaraclaj/- [README.md](http://github.com/zaraclaj/audio_recorder/blob/master/README.md) ⭐ 183 | 🐛 35 | 🌐 Java | 📅 2022-04-25
 * awesome/
-  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome/blob/master/README.md) ⭐ 513,649 | 🐛 106 | 📅 2026-09-02
+  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome/blob/master/README.md) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
   * chartjs/- [README.md](http://github.com/chartjs/awesome/blob/master/README.md) ⭐ 2,727 | 🐛 9 | 📅 2026-03-23
   * shenwei356/- [README.md](http://github.com/shenwei356/awesome/blob/master/README.md) ⭐ 769 | 🐛 11 | 📅 2026-04-27
   * craftcms/- [README.md](http://github.com/craftcms/awesome/blob/master/README.md) ⭐ 548 | 🐛 0 | 📅 2023-02-01
@@ -69,37 +69,37 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-2vec/
   * maxwellrebo/- [README.md](http://github.com/maxwellrebo/awesome-2vec/blob/master/README.md) ⭐ 935 | 🐛 0 | 📅 2022-12-08
 * awesome-3d-printing/
-  * ad-si/- [README.md](http://github.com/ad-si/awesome-3d-printing/blob/master/README.md) ⭐ 1,997 | 🐛 37 | 📅 2026-08-11
+  * ad-si/- [README.md](http://github.com/ad-si/awesome-3d-printing/blob/master/README.md) ⭐ 1,997 | 🐛 38 | 📅 2026-08-11
 * awesome-acg/
   * soruly/- [README.md](http://github.com/soruly/awesome-acg/blob/master/README.md) ⭐ 1,478 | 🐛 6 | 📅 2026-09-21
 * awesome-action-recognition/
-  * jinwchoi/- [README.md](http://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md) ⭐ 4,037 | 🐛 1 | 📅 2023-05-13
+  * jinwchoi/- [README.md](http://github.com/jinwchoi/awesome-action-recognition/blob/master/README.md) ⭐ 4,039 | 🐛 1 | 📅 2023-05-13
 * awesome-actions/
-  * sdras/- [README.md](http://github.com/sdras/awesome-actions/blob/master/README.md) ⭐ 28,281 | 🐛 328 | 📅 2024-09-01
+  * sdras/- [README.md](http://github.com/sdras/awesome-actions/blob/master/README.md) ⭐ 28,282 | 🐛 328 | 📅 2024-09-01
 * awesome-actionscript3/
   * robinrodricks/- [README.md](http://github.com/robinrodricks/awesome-actionscript3/blob/master/README.md) ⭐ 275 | 🐛 2 | 📅 2022-11-12
 * awesome-activitypub/
   * basixkor/- [README.md](http://github.com/basixkor/awesome-activitypub/blob/master/README.md) ⭐ 1,191 | 🐛 9 | 📅 2024-12-17
 * awesome-ad-free/
-  * johnjago/- [README.md](http://github.com/johnjago/awesome-ad-free/blob/master/README.md) ⭐ 517 | 🐛 0 | 📅 2022-12-12
+  * johnjago/- [README.md](http://github.com/johnjago/awesome-ad-free/blob/master/README.md) ⭐ 518 | 🐛 0 | 📅 2022-12-12
 * awesome-ada/
   * ohenley/- [README.md](http://github.com/ohenley/awesome-ada/blob/master/README.md) ⭐ 871 | 🐛 3 | 📅 2026-09-22
 * awesome-agile/
   * lorabv/- [README.md](http://github.com/lorabv/awesome-agile/blob/master/README.md) ⭐ 1,485 | 🐛 11 | 📅 2024-08-10
 * awesome-agriculture/
-  * beaorn/- [README.md](http://github.com/beaorn/awesome-agriculture/blob/master/README.md) ⭐ 1,891 | 🐛 21 | 📅 2026-01-05
+  * beaorn/- [README.md](http://github.com/beaorn/awesome-agriculture/blob/master/README.md) ⭐ 1,893 | 🐛 21 | 📅 2026-01-05
 * awesome-alfred-workflows/
   * derimagia/- [README.md](http://github.com/derimagia/awesome-alfred-workflows/blob/master/README.md) ⚠️ Archived
 * awesome-algolia/
-  * algolia/- [README.md](http://github.com/algolia/awesome-algolia/blob/master/README.md) ⭐ 744 | 🐛 2 | 📅 2024-09-09
+  * algolia/- [README.md](http://github.com/algolia/awesome-algolia/blob/master/README.md) ⭐ 743 | 🐛 2 | 📅 2024-09-09
 * awesome-algorithms-education/
   * gaerae/- [README.md](http://github.com/gaerae/awesome-algorithms-education/blob/master/README.md) ⭐ 903 | 🐛 7 | 📅 2022-11-15
 * awesome-alpine/
-  * alpinejs/- [README.md](http://github.com/alpinejs/awesome-alpine/blob/master/README.md) ⭐ 1,090 | 🐛 13 | 📅 2024-05-17
+  * alpinejs/- [README.md](http://github.com/alpinejs/awesome-alpine/blob/master/README.md) ⭐ 1,091 | 🐛 13 | 📅 2024-05-17
 * awesome-amazon-alexa/
   * miguelmota/- [README.md](http://github.com/miguelmota/awesome-amazon-alexa/blob/master/README.md) ⚠️ Archived
 * awesome-android/
-  * jstumpp/- [README.md](http://github.com/jstumpp/awesome-android/blob/master/README.md) ⭐ 12,369 | 🐛 100 | 📅 2025-10-27
+  * jstumpp/- [README.md](http://github.com/jstumpp/awesome-android/blob/master/README.md) ⭐ 12,368 | 🐛 100 | 📅 2025-10-27
 * awesome-android-complete-reference/
   * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/awesome-android-complete-reference/blob/master/README.md) ⭐ 2,859 | 🐛 7 | 🌐 Java | 📅 2026-01-28
 * awesome-android-learner/
@@ -109,7 +109,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-android-tips/
   * jiang111/- [README.md](http://github.com/jiang111/awesome-android-tips/blob/master/README.md) ⭐ 2,570 | 🐛 2 | 📅 2022-03-02
 * awesome-android-ui/
-  * wasabeef/- [README.md](http://github.com/wasabeef/awesome-android-ui/blob/master/README.md) ⭐ 57,801 | 🐛 41 | 📅 2026-06-05
+  * wasabeef/- [README.md](http://github.com/wasabeef/awesome-android-ui/blob/master/README.md) ⭐ 57,805 | 🐛 41 | 📅 2026-06-05
   * thanhtoan1196/- [README.md](http://github.com/thanhtoan1196/awesome-android-ui/blob/master/README.md) ⭐ 500 | 🐛 1 | 📅 2021-09-03
 * awesome-angular/
   * patrickjs/- [README.md](http://github.com/patrickjs/awesome-angular/blob/master/README.md) ⭐ 10,078 | 🐛 0 | 🌐 HTML | 📅 2026-10-02
@@ -130,25 +130,25 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-artificial-general-intelligence/
   * fairy-tale-agi-solutions/- [README.md](http://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence/blob/master/README.md) ⭐ 331 | 🐛 3 | 📅 2026-05-11
 * awesome-asgi/
-  * florimondmanca/- [README.md](http://github.com/florimondmanca/awesome-asgi/blob/master/README.md) ⭐ 1,848 | 🐛 16 | 🌐 Python | 📅 2026-05-02
+  * florimondmanca/- [README.md](http://github.com/florimondmanca/awesome-asgi/blob/master/README.md) ⭐ 1,848 | 🐛 17 | 🌐 Python | 📅 2026-05-02
 * awesome-asm/
   * lurumdare/- [README.md](http://github.com/lurumdare/awesome-asm/blob/master/README.md)
 * awesome-asyncio/
-  * timofurrer/- [README.md](http://github.com/timofurrer/awesome-asyncio/blob/master/README.md) ⭐ 5,134 | 🐛 20 | 📅 2025-12-01
+  * timofurrer/- [README.md](http://github.com/timofurrer/awesome-asyncio/blob/master/README.md) ⭐ 5,135 | 🐛 20 | 📅 2025-12-01
 * awesome-atom/
   * mehcode/- [README.md](http://github.com/mehcode/awesome-atom/blob/master/README.md) ⚠️ Archived
 * awesome-aurelia/
   * aurelia-contrib/- [README.md](http://github.com/aurelia-contrib/awesome-aurelia/blob/master/README.md) ⭐ 310 | 🐛 2 | 📅 2022-08-18
 * awesome-auth/
-  * casbin/- [README.md](http://github.com/casbin/awesome-auth/blob/master/README.md) ⭐ 1,367 | 🐛 4 | 🌐 Go | 📅 2026-09-29
+  * casbin/- [README.md](http://github.com/casbin/awesome-auth/blob/master/README.md) ⭐ 1,368 | 🐛 4 | 🌐 Go | 📅 2026-09-29
 * awesome-autoit/
   * j2team/- [README.md](http://github.com/j2team/awesome-autoit/blob/master/README.md) ⭐ 924 | 🐛 0 | 📅 2022-08-21
 * awesome-ava/
   * avajs/- [README.md](http://github.com/avajs/awesome-ava/blob/master/README.md) ⭐ 357 | 🐛 2 | 📅 2022-09-12
 * awesome-awesome/
-  * emijrp/- [README.md](http://github.com/emijrp/awesome-awesome/blob/master/README.md) ⭐ 3,217 | 🐛 29 | 📅 2024-07-31
+  * emijrp/- [README.md](http://github.com/emijrp/awesome-awesome/blob/master/README.md) ⭐ 3,218 | 🐛 29 | 📅 2024-07-31
 * awesome-awesome-awesome/
-  * t3chnoboy/- [README.md](http://github.com/t3chnoboy/awesome-awesome-awesome/blob/master/README.md) ⭐ 2,266 | 🐛 5 | 📅 2023-11-13
+  * t3chnoboy/- [README.md](http://github.com/t3chnoboy/awesome-awesome-awesome/blob/master/README.md) ⭐ 2,267 | 🐛 5 | 📅 2023-11-13
 * awesome-awesome-awesome-awesome/
   * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-awesome-awesome-awesome/blob/master/README.md) ⭐ 247 | 🐛 0 | 📅 2021-01-24
 * awesome-awesome-nodejs/
@@ -162,11 +162,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-babel-macros/
   * jgierer12/- [README.md](http://github.com/jgierer12/awesome-babel-macros/blob/master/README.md) ⚠️ Archived
 * awesome-bash/
-  * awesome-lists/- [README.md](http://github.com/awesome-lists/awesome-bash/blob/master/README.md) ⭐ 10,114 | 🐛 7 | 🌐 Shell | 📅 2026-05-21
+  * awesome-lists/- [README.md](http://github.com/awesome-lists/awesome-bash/blob/master/README.md) ⭐ 10,118 | 🐛 7 | 🌐 Shell | 📅 2026-05-21
 * awesome-bazel/
   * jin/- [README.md](http://github.com/jin/awesome-bazel/blob/master/README.md) ⭐ 1,242 | 🐛 13 | 📅 2024-11-13
 * awesome-bigdata/
-  * onurakpolat/- [README.md](http://github.com/onurakpolat/awesome-bigdata/blob/master/README.md) ⭐ 14,657 | 🐛 6 | 📅 2026-07-31
+  * onurakpolat/- [README.md](http://github.com/onurakpolat/awesome-bigdata/blob/master/README.md) ⭐ 14,658 | 🐛 6 | 📅 2026-07-31
 * awesome-biohacking/
   * gouveaheitor/- [README.md](http://github.com/gouveaheitor/awesome-biohacking/blob/master/README.md)
 * awesome-bioinformatics/
@@ -189,7 +189,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-blockchain-ai/
   * steven2358/- [README.md](http://github.com/steven2358/awesome-blockchain-ai/blob/master/README.md) ⭐ 1,159 | 🐛 41 | 📅 2026-02-06
 * awesome-blockchain-rust/
-  * rust-in-blockchain/- [README.md](http://github.com/rust-in-blockchain/awesome-blockchain-rust/blob/master/README.md) ⭐ 2,820 | 🐛 19 | 📅 2026-05-17
+  * rust-in-blockchain/- [README.md](http://github.com/rust-in-blockchain/awesome-blockchain-rust/blob/master/README.md) ⭐ 2,821 | 🐛 19 | 📅 2026-05-17
 * awesome-bootstrap/
   * therebelrobot/- [README.md](http://github.com/therebelrobot/awesome-bootstrap/blob/master/README.md) ⭐ 1,434 | 🐛 1 | 🌐 JavaScript | 📅 2023-11-02
 * awesome-bots/
@@ -203,23 +203,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-browser-exploit/
   * escapingbug/- [README.md](http://github.com/escapingbug/awesome-browser-exploit/blob/master/README.md) ⭐ 2,301 | 🐛 0 | 📅 2023-09-18
 * awesome-browser-extensions-for-github/
-  * stefanbuck/- [README.md](http://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/README.md) ⭐ 3,305 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18
+  * stefanbuck/- [README.md](http://github.com/stefanbuck/awesome-browser-extensions-for-github/blob/master/README.md) ⭐ 3,306 | 🐛 29 | 🌐 JavaScript | 📅 2024-08-18
 * awesome-bsd/
   * discoverbsd/- [README.md](http://github.com/discoverbsd/awesome-bsd/blob/master/README.md) ⭐ 433 | 🐛 2 | 📅 2026-04-02
 * awesome-buggy-erc20-tokens/
   * sec-bit/- [README.md](http://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/README.md) ⭐ 632 | 🐛 9 | 🌐 Python | 📅 2024-02-15
 * awesome-c/
-  * kozross/- [README.md](http://github.com/kozross/awesome-c/blob/master/README.md) ⭐ 11,584 | 🐛 106 | 📅 2026-09-19
+  * kozross/- [README.md](http://github.com/kozross/awesome-c/blob/master/README.md) ⭐ 11,585 | 🐛 106 | 📅 2026-09-19
   * aleksandar-todorovic/- [README.md](http://github.com/aleksandar-todorovic/awesome-c/blob/master/README.md) ⚠️ Archived
   * bfgeshka/- [README.md](http://github.com/bfgeshka/awesome-c/blob/master/README.md) ⚠️ Archived
 * awesome-canvas/
   * raphamorim/- [README.md](http://github.com/raphamorim/awesome-canvas/blob/master/README.md) ⭐ 1,864 | 🐛 18 | 🌐 Markdown | 📅 2026-06-14
 * awesome-captcha/
-  * zyszys/- [README.md](http://github.com/zyszys/awesome-captcha/blob/master/README.md) ⭐ 1,430 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-10
+  * zyszys/- [README.md](http://github.com/zyszys/awesome-captcha/blob/master/README.md) ⭐ 1,431 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-10
 * awesome-carla/
   * amin-tgz/- [README.md](http://github.com/amin-tgz/awesome-carla/blob/master/README.md) ⭐ 915 | 🐛 0 | 📅 2026-09-28
 * awesome-casestudy/
-  * luruke/- [README.md](http://github.com/luruke/awesome-casestudy/blob/master/README.md) ⭐ 2,624 | 🐛 0 | 📅 2022-09-28
+  * luruke/- [README.md](http://github.com/luruke/awesome-casestudy/blob/master/README.md) ⭐ 2,625 | 🐛 0 | 📅 2022-09-28
 * awesome-causality-algorithms/
   * rguo12/- [README.md](http://github.com/rguo12/awesome-causality-algorithms/blob/master/README.md) ⭐ 3,289 | 🐛 2 | 📅 2025-01-22
 * awesome-cerebro/
@@ -227,23 +227,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-cfp/
   * lauthieb/- [README.md](http://github.com/lauthieb/awesome-cfp/blob/master/README.md)
 * awesome-chaos-engineering/
-  * dastergon/- [README.md](http://github.com/dastergon/awesome-chaos-engineering/blob/master/README.md) ⭐ 6,663 | 🐛 75 | 📅 2023-12-28
+  * dastergon/- [README.md](http://github.com/dastergon/awesome-chaos-engineering/blob/master/README.md) ⭐ 6,664 | 🐛 75 | 📅 2023-12-28
 * awesome-chatops/
   * exaspark/- [README.md](http://github.com/exaspark/awesome-chatops/blob/master/README.md) ⭐ 985 | 🐛 4 | 📅 2021-10-30
 * awesome-cheatsheet/
-  * detailyang/- [README.md](http://github.com/detailyang/awesome-cheatsheet/blob/master/README.md) ⭐ 8,584 | 🐛 8 | 🌐 Python | 📅 2026-09-03
+  * detailyang/- [README.md](http://github.com/detailyang/awesome-cheatsheet/blob/master/README.md) ⭐ 8,585 | 🐛 8 | 🌐 Python | 📅 2026-09-03
 * awesome-cheatsheets/
-  * skywind3000/- [README.md](http://github.com/skywind3000/awesome-cheatsheets/blob/master/README.md) ⭐ 12,591 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
+  * skywind3000/- [README.md](http://github.com/skywind3000/awesome-cheatsheets/blob/master/README.md) ⭐ 12,592 | 🐛 24 | 🌐 Shell | 📅 2026-09-02
 * awesome-cheminformatics/
   * hsiaoyi0504/- [README.md](http://github.com/hsiaoyi0504/awesome-cheminformatics/blob/master/README.md) ⭐ 887 | 🐛 34 | 📅 2024-03-15
 * awesome-choo/
   * choojs/- [README.md](http://github.com/choojs/awesome-choo/blob/master/README.md) ⭐ 203 | 🐛 3 | 📅 2019-12-19
 * awesome-chrome-devtools/
-  * chromedevtools/- [README.md](http://github.com/chromedevtools/awesome-chrome-devtools/blob/master/README.md) ⭐ 7,153 | 🐛 26 | 📅 2026-03-27
+  * chromedevtools/- [README.md](http://github.com/chromedevtools/awesome-chrome-devtools/blob/master/README.md) ⭐ 7,154 | 🐛 26 | 📅 2026-03-27
 * awesome-chrome-extension-boilerplate/
   * tjx666/- [README.md](http://github.com/tjx666/awesome-chrome-extension-boilerplate/blob/master/README.md) ⭐ 443 | 🐛 6 | 🌐 TypeScript | 📅 2024-08-01
 * awesome-ci/
-  * ligurio/- [README.md](http://github.com/ligurio/awesome-ci/blob/master/README.md) ⭐ 4,153 | 🐛 23 | 📅 2026-08-27
+  * ligurio/- [README.md](http://github.com/ligurio/awesome-ci/blob/master/README.md) ⭐ 4,154 | 🐛 23 | 📅 2026-08-27
 * awesome-circuitpython/
   * adafruit/- [README.md](http://github.com/adafruit/awesome-circuitpython/blob/master/README.md) ⭐ 741 | 🐛 2 | 📅 2025-07-21
 * awesome-cl/
@@ -251,17 +251,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-clean-tech/
   * nglgzz/- [README.md](http://github.com/nglgzz/awesome-clean-tech/blob/master/README.md) ⭐ 475 | 🐛 17 | 📅 2026-03-13
 * awesome-cli-apps/
-  * agarrharr/- [README.md](http://github.com/agarrharr/awesome-cli-apps/blob/master/README.md) ⭐ 20,497 | 🐛 2 | 🌐 Shell | 📅 2026-09-30
+  * agarrharr/- [README.md](http://github.com/agarrharr/awesome-cli-apps/blob/master/README.md) ⭐ 20,495 | 🐛 1 | 🌐 Shell | 📅 2026-09-30
 * awesome-clojurescript/
   * hantuzun/- [README.md](http://github.com/hantuzun/awesome-clojurescript/blob/master/README.md) ⭐ 1,088 | 🐛 6 | 📅 2024-03-10
 * awesome-cloud-native/
-  * rootsongjc/- [README.md](http://github.com/rootsongjc/awesome-cloud-native/blob/master/README.md) ⭐ 2,453 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02
+  * rootsongjc/- [README.md](http://github.com/rootsongjc/awesome-cloud-native/blob/master/README.md) ⭐ 2,454 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02
 * awesome-cloudflare/
-  * irazasyed/- [README.md](http://github.com/irazasyed/awesome-cloudflare/blob/master/README.md) ⭐ 1,248 | 🐛 49 | 📅 2026-01-29
+  * irazasyed/- [README.md](http://github.com/irazasyed/awesome-cloudflare/blob/master/README.md) ⭐ 1,251 | 🐛 49 | 📅 2026-01-29
 * awesome-cloudrun/
-  * steren/- [README.md](http://github.com/steren/awesome-cloudrun/blob/master/README.md) ⭐ 875 | 🐛 1 | 🌐 Dockerfile | 📅 2025-04-14
+  * steren/- [README.md](http://github.com/steren/awesome-cloudrun/blob/master/README.md) ⭐ 876 | 🐛 1 | 🌐 Dockerfile | 📅 2025-04-14
 * awesome-cmake/
-  * onqtam/- [README.md](http://github.com/onqtam/awesome-cmake/blob/master/README.md) ⭐ 5,420 | 🐛 4 | 📅 2026-08-13
+  * onqtam/- [README.md](http://github.com/onqtam/awesome-cmake/blob/master/README.md) ⭐ 5,421 | 🐛 4 | 📅 2026-08-13
 * awesome-cn/
   * icopy-site/- [README.md](http://github.com/icopy-site/awesome-cn/blob/master/README.md) ⭐ 1,730 | 🐛 18 | 🌐 Python | 📅 2026-07-29
 * awesome-cn-cafe/
@@ -269,9 +269,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-cocos-creator/
   * potato47/- [README.md](http://github.com/potato47/awesome-cocos-creator/blob/master/README.md) ⭐ 353 | 🐛 0 | 📅 2020-12-16
 * awesome-code-reading/
-  * codereaderme/- [README.md](http://github.com/codereaderme/awesome-code-reading/blob/master/README.md) ⭐ 385 | 🐛 10 | 📅 2018-10-25
+  * codereaderme/- [README.md](http://github.com/codereaderme/awesome-code-reading/blob/master/README.md) ⭐ 386 | 🐛 10 | 📅 2018-10-25
 * awesome-code-review/
-  * joho/- [README.md](http://github.com/joho/awesome-code-review/blob/master/README.md) ⭐ 5,155 | 🐛 83 | 📅 2024-09-09
+  * joho/- [README.md](http://github.com/joho/awesome-code-review/blob/master/README.md) ⭐ 5,156 | 🐛 83 | 📅 2024-09-09
 * awesome-coding-interview-question-patterns/
   * mahdimashrur/- [README.md](http://github.com/mahdimashrur/awesome-coding-interview-question-patterns/blob/master/README.md) ⭐ 465 | 🐛 0 | 📅 2022-07-07
 * awesome-coins/
@@ -285,25 +285,25 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-community/
   * phpearth/- [README.md](http://github.com/phpearth/awesome-community/blob/master/README.md) ⭐ 284 | 🐛 0 | 📅 2026-03-27
 * awesome-competitive-programming/
-  * lnishan/- [README.md](http://github.com/lnishan/awesome-competitive-programming/blob/master/README.md) ⭐ 14,204 | 🐛 28 | 📅 2024-12-08
+  * lnishan/- [README.md](http://github.com/lnishan/awesome-competitive-programming/blob/master/README.md) ⭐ 14,206 | 🐛 28 | 📅 2024-12-08
 * awesome-compilers/
-  * aalhour/- [README.md](http://github.com/aalhour/awesome-compilers/blob/master/README.md) ⭐ 9,920 | 🐛 64 | 📅 2024-05-26
+  * aalhour/- [README.md](http://github.com/aalhour/awesome-compilers/blob/master/README.md) ⭐ 9,921 | 🐛 64 | 📅 2024-05-26
 * awesome-compose/
-  * docker/- [README.md](http://github.com/docker/awesome-compose/blob/master/README.md) ⭐ 46,453 | 🐛 430 | 🌐 HTML | 📅 2026-10-01
+  * docker/- [README.md](http://github.com/docker/awesome-compose/blob/master/README.md) ⭐ 46,455 | 🐛 430 | 🌐 HTML | 📅 2026-10-01
 * awesome-composer/
   * jakoch/- [README.md](http://github.com/jakoch/awesome-composer/blob/master/README.md) ⭐ 908 | 🐛 0 | 📅 2026-07-26
 * awesome-computational-neuroscience/
-  * eselkin/- [README.md](http://github.com/eselkin/awesome-computational-neuroscience/blob/master/README.md) ⭐ 1,004 | 🐛 7 | 📅 2024-08-02
+  * eselkin/- [README.md](http://github.com/eselkin/awesome-computational-neuroscience/blob/master/README.md) ⭐ 1,005 | 🐛 7 | 📅 2024-08-02
 * awesome-computer-graphics/
-  * luisnts/- [README.md](http://github.com/luisnts/awesome-computer-graphics/blob/master/README.md) ⭐ 1,040 | 🐛 2 | 📅 2021-07-17
+  * luisnts/- [README.md](http://github.com/luisnts/awesome-computer-graphics/blob/master/README.md) ⭐ 1,041 | 🐛 2 | 📅 2021-07-17
 * awesome-computer-history/
-  * watson/- [README.md](http://github.com/watson/awesome-computer-history/blob/master/README.md) ⭐ 2,962 | 🐛 17 | 📅 2023-02-01
+  * watson/- [README.md](http://github.com/watson/awesome-computer-history/blob/master/README.md) ⭐ 2,963 | 🐛 17 | 📅 2023-02-01
 * awesome-computer-science-opportunities/
-  * anu0012/- [README.md](http://github.com/anu0012/awesome-computer-science-opportunities/blob/master/README.md) ⭐ 4,170 | 🐛 17 | 📅 2024-06-10
+  * anu0012/- [README.md](http://github.com/anu0012/awesome-computer-science-opportunities/blob/master/README.md) ⭐ 4,171 | 🐛 17 | 📅 2024-06-10
 * awesome-computer-vision-models/
-  * nerox8664/- [README.md](http://github.com/nerox8664/awesome-computer-vision-models/blob/master/README.md) ⭐ 544 | 🐛 0 | 📅 2021-05-09
+  * nerox8664/- [README.md](http://github.com/nerox8664/awesome-computer-vision-models/blob/master/README.md) ⭐ 545 | 🐛 0 | 📅 2021-05-09
 * awesome-conferences/
-  * richardlitt/- [README.md](http://github.com/richardlitt/awesome-conferences/blob/master/README.md) ⭐ 791 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29
+  * richardlitt/- [README.md](http://github.com/richardlitt/awesome-conferences/blob/master/README.md) ⭐ 790 | 🐛 2 | 🌐 Ruby | 📅 2022-09-29
 * awesome-conferences-database/
   * matteocrippa/- [README.md](http://github.com/matteocrippa/awesome-conferences-database/blob/master/README.md) ⚠️ Archived
 * awesome-config/
@@ -311,32 +311,32 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-consensus/
   * dgryski/- [README.md](http://github.com/dgryski/awesome-consensus/blob/master/README.md) ⭐ 2,149 | 🐛 3 | 📅 2024-05-29
 * awesome-console-services/
-  * chubin/- [README.md](http://github.com/chubin/awesome-console-services/blob/master/README.md) ⭐ 6,537 | 🐛 28 | 📅 2026-02-01
+  * chubin/- [README.md](http://github.com/chubin/awesome-console-services/blob/master/README.md) ⭐ 6,536 | 🐛 28 | 📅 2026-02-01
 * awesome-consul/
   * josegonzalez/- [README.md](http://github.com/josegonzalez/awesome-consul/blob/master/README.md) ⭐ 277 | 🐛 0 | 📅 2026-03-07
 * awesome-container-security/
   * kai5263499/- [README.md](http://github.com/kai5263499/awesome-container-security/blob/master/README.md) ⭐ 252 | 🐛 1 | 📅 2026-09-29
 * awesome-coreml-models/
-  * likedan/- [README.md](http://github.com/likedan/awesome-coreml-models/blob/master/README.md) ⭐ 7,057 | 🐛 16 | 🌐 Python | 📅 2025-06-17
+  * likedan/- [README.md](http://github.com/likedan/awesome-coreml-models/blob/master/README.md) ⭐ 7,058 | 🐛 16 | 🌐 Python | 📅 2025-06-17
   * swiftbrain/- [README.md](http://github.com/swiftbrain/awesome-coreml-models/blob/master/README.md) ⭐ 588 | 🐛 4 | 📅 2019-12-07
 * awesome-coronavirus/
   * soroushchehresa/- [README.md](http://github.com/soroushchehresa/awesome-coronavirus/blob/master/README.md) ⭐ 1,569 | 🐛 1 | 🌐 TypeScript | 📅 2024-05-02
 * awesome-couchdb/
   * quangv/- [README.md](http://github.com/quangv/awesome-couchdb/blob/master/README.md) ⭐ 195 | 🐛 0 | 📅 2023-05-09
 * awesome-courses/
-  * prakhar1989/- [README.md](http://github.com/prakhar1989/awesome-courses/blob/master/README.md) ⭐ 71,540 | 🐛 65 | 📅 2023-05-04
+  * prakhar1989/- [README.md](http://github.com/prakhar1989/awesome-courses/blob/master/README.md) ⭐ 71,549 | 🐛 65 | 📅 2023-05-04
 * awesome-cpp/
-  * fffaraz/- [README.md](http://github.com/fffaraz/awesome-cpp/blob/master/README.md) ⭐ 73,572 | 🐛 311 | 📅 2026-09-29
+  * fffaraz/- [README.md](http://github.com/fffaraz/awesome-cpp/blob/master/README.md) ⭐ 73,584 | 🐛 311 | 📅 2026-09-29
 * awesome-crawler/
-  * brucedone/- [README.md](http://github.com/brucedone/awesome-crawler/blob/master/README.md) ⭐ 7,321 | 🐛 41 | 📅 2024-06-16
+  * brucedone/- [README.md](http://github.com/brucedone/awesome-crawler/blob/master/README.md) ⭐ 7,322 | 🐛 41 | 📅 2024-06-16
 * awesome-create-react-app/
   * tuchk4/- [README.md](http://github.com/tuchk4/awesome-create-react-app/blob/master/README.md) ⭐ 1,391 | 🐛 5 | 📅 2020-12-09
 * awesome-creative-coding/
-  * terkelg/- [README.md](http://github.com/terkelg/awesome-creative-coding/blob/master/README.md) ⭐ 15,387 | 🐛 14 | 🌐 HTML | 📅 2026-07-21
+  * terkelg/- [README.md](http://github.com/terkelg/awesome-creative-coding/blob/master/README.md) ⭐ 15,390 | 🐛 14 | 🌐 HTML | 📅 2026-07-21
 * awesome-crispr/
   * davidliwei/- [README.md](http://github.com/davidliwei/awesome-crispr/blob/master/README.md) ⭐ 581 | 🐛 1 | 📅 2026-07-29
 * awesome-critical-tech-reading-list/
-  * chobeat/- [README.md](http://github.com/chobeat/awesome-critical-tech-reading-list/blob/master/README.md) ⭐ 962 | 🐛 0 | 📅 2024-08-19
+  * chobeat/- [README.md](http://github.com/chobeat/awesome-critical-tech-reading-list/blob/master/README.md) ⭐ 963 | 🐛 0 | 📅 2024-08-19
 * awesome-crypto-papers/
   * pfarb/- [README.md](http://github.com/pfarb/awesome-crypto-papers/blob/master/README.md) ⭐ 2,100 | 🐛 4 | 📅 2024-10-17
 * awesome-cryptography/
@@ -344,21 +344,21 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-crystal/
   * veelenga/- [README.md](http://github.com/veelenga/awesome-crystal/blob/master/README.md) ⭐ 3,562 | 🐛 1 | 🌐 Crystal | 📅 2026-09-28
 * awesome-css/
-  * awesome-css-group/- [README.md](http://github.com/awesome-css-group/awesome-css/blob/master/README.md) ⭐ 5,639 | 🐛 30 | 📅 2024-10-30
+  * awesome-css-group/- [README.md](http://github.com/awesome-css-group/awesome-css/blob/master/README.md) ⭐ 5,641 | 🐛 30 | 📅 2024-10-30
 * awesome-css-frameworks/
-  * troxler/- [README.md](http://github.com/troxler/awesome-css-frameworks/blob/master/README.md) ⭐ 9,538 | 🐛 4 | 🌐 CSS | 📅 2026-06-08
+  * troxler/- [README.md](http://github.com/troxler/awesome-css-frameworks/blob/master/README.md) ⭐ 9,539 | 🐛 4 | 🌐 CSS | 📅 2026-06-08
 * awesome-css-grid/
   * valentinogagliardi/- [README.md](http://github.com/valentinogagliardi/awesome-css-grid/blob/master/README.md) ⭐ 538 | 🐛 4 | 📅 2024-01-27
 * awesome-css-in-js/
   * tuchk4/- [README.md](http://github.com/tuchk4/awesome-css-in-js/blob/master/README.md) ⭐ 613 | 🐛 1 | 📅 2020-10-12
 * awesome-css-learning/
-  * micromata/- [README.md](http://github.com/micromata/awesome-css-learning/blob/master/README.md) ⭐ 3,865 | 🐛 9 | 📅 2026-02-01
+  * micromata/- [README.md](http://github.com/micromata/awesome-css-learning/blob/master/README.md) ⭐ 3,866 | 🐛 9 | 📅 2026-02-01
 * awesome-ctf/
-  * apsdehal/- [README.md](http://github.com/apsdehal/awesome-ctf/blob/master/README.md) ⭐ 11,878 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
+  * apsdehal/- [README.md](http://github.com/apsdehal/awesome-ctf/blob/master/README.md) ⭐ 11,881 | 🐛 70 | 🌐 JavaScript | 📅 2024-07-22
 * awesome-cto-resources/
   * mateusz-brainhub/- [README.md](http://github.com/mateusz-brainhub/awesome-cto-resources/blob/master/README.md) ⭐ 934 | 🐛 2 | 📅 2021-06-05
 * awesome-cv/
-  * posquit0/- [README.md](http://github.com/posquit0/awesome-cv/blob/master/README.md) ⭐ 28,630 | 🐛 144 | 🌐 TeX | 📅 2026-09-14
+  * posquit0/- [README.md](http://github.com/posquit0/awesome-cv/blob/master/README.md) ⭐ 28,632 | 🐛 144 | 🌐 TeX | 📅 2026-09-14
 * awesome-cve-poc/
   * qazbnm456/- [README.md](http://github.com/qazbnm456/awesome-cve-poc/blob/master/README.md) ⭐ 3,532 | 🐛 2 | 📅 2022-01-04
 * awesome-dapps/
@@ -374,17 +374,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-data-science-viz/
   * quantmind/- [README.md](http://github.com/quantmind/awesome-data-science-viz/blob/master/README.md) ⭐ 184 | 🐛 2 | 📅 2022-11-29
 * awesome-database-learning/
-  * pingcap/- [README.md](http://github.com/pingcap/awesome-database-learning/blob/master/README.md) ⭐ 11,039 | 🐛 16 | 📅 2024-08-29
+  * pingcap/- [README.md](http://github.com/pingcap/awesome-database-learning/blob/master/README.md) ⭐ 11,041 | 🐛 16 | 📅 2024-08-29
 * awesome-db-tools/
   * mgramin/- [README.md](http://github.com/mgramin/awesome-db-tools/blob/master/README.md) ⭐ 5,320 | 🐛 201 | 📅 2026-05-21
 * awesome-ddd/
-  * heynickc/- [README.md](http://github.com/heynickc/awesome-ddd/blob/master/README.md) ⭐ 12,379 | 🐛 2 | 📅 2026-08-26
+  * heynickc/- [README.md](http://github.com/heynickc/awesome-ddd/blob/master/README.md) ⭐ 12,380 | 🐛 2 | 📅 2026-08-26
 * awesome-decentralized/
   * croqaz/- [README.md](http://github.com/croqaz/awesome-decentralized/blob/master/README.md) ⚠️ Archived
 * awesome-decentralized-finance/
   * ong/- [README.md](http://github.com/ong/awesome-decentralized-finance/blob/master/README.md) ⭐ 1,668 | 🐛 81 | 📅 2026-01-14
 * awesome-deep-learning/
-  * christoschristofidis/- [README.md](http://github.com/christoschristofidis/awesome-deep-learning/blob/master/README.md) ⭐ 29,001 | 🐛 88 | 📅 2025-05-26
+  * christoschristofidis/- [README.md](http://github.com/christoschristofidis/awesome-deep-learning/blob/master/README.md) ⭐ 29,002 | 🐛 88 | 📅 2025-05-26
 * awesome-deep-learning-music/
   * ybayle/- [README.md](http://github.com/ybayle/awesome-deep-learning-music/blob/master/README.md) ⭐ 2,987 | 🐛 8 | 🌐 TeX | 📅 2023-12-15
 * awesome-deep-learning-resources/
@@ -392,23 +392,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-deep-vision-web-demo/
   * hwalsuklee/- [README.md](http://github.com/hwalsuklee/awesome-deep-vision-web-demo/blob/master/README.md) ⭐ 351 | 🐛 0 | 📅 2019-06-14
 * awesome-deepfakes/
-  * aerophile/- [README.md](http://github.com/aerophile/awesome-deepfakes/blob/master/README.md) ⭐ 1,736 | 🐛 6 | 📅 2023-01-14
+  * aerophile/- [README.md](http://github.com/aerophile/awesome-deepfakes/blob/master/README.md) ⭐ 1,737 | 🐛 6 | 📅 2023-01-14
 * awesome-deno/
-  * denolib/- [README.md](http://github.com/denolib/awesome-deno/blob/master/README.md) ⭐ 4,410 | 🐛 2 | 📅 2026-09-28
+  * denolib/- [README.md](http://github.com/denolib/awesome-deno/blob/master/README.md) ⭐ 4,411 | 🐛 2 | 📅 2026-09-28
 * awesome-design/
-  * gztchan/- [README.md](http://github.com/gztchan/awesome-design/blob/master/README.md) ⭐ 17,590 | 🐛 63 | 📅 2024-07-04
+  * gztchan/- [README.md](http://github.com/gztchan/awesome-design/blob/master/README.md) ⭐ 17,592 | 🐛 63 | 📅 2024-07-04
 * awesome-design-patterns/
-  * dovamir/- [README.md](http://github.com/dovamir/awesome-design-patterns/blob/master/README.md) ⭐ 49,170 | 🐛 27 | 📅 2024-10-25
+  * dovamir/- [README.md](http://github.com/dovamir/awesome-design-patterns/blob/master/README.md) ⭐ 49,179 | 🐛 27 | 📅 2024-10-25
 * awesome-design-principles/
-  * robinstickel/- [README.md](http://github.com/robinstickel/awesome-design-principles/blob/master/README.md) ⭐ 774 | 🐛 0 | 📅 2021-01-11
+  * robinstickel/- [README.md](http://github.com/robinstickel/awesome-design-principles/blob/master/README.md) ⭐ 775 | 🐛 0 | 📅 2021-01-11
 * awesome-design-systems/
   * alexpate/- [README.md](http://github.com/alexpate/awesome-design-systems/blob/master/README.md) ⭐ 26,054 | 🐛 27 | 📅 2026-04-28
 * awesome-design-tools/
-  * lisadziuba/- [README.md](http://github.com/lisadziuba/awesome-design-tools/blob/master/README.md) ⭐ 41,374 | 🐛 210 | 🌐 JavaScript | 📅 2024-07-28
+  * lisadziuba/- [README.md](http://github.com/lisadziuba/awesome-design-tools/blob/master/README.md) ⭐ 41,378 | 🐛 211 | 🌐 JavaScript | 📅 2024-07-28
 * awesome-desktop-js/
-  * styfle/- [README.md](http://github.com/styfle/awesome-desktop-js/blob/master/README.md) ⭐ 872 | 🐛 6 | 📅 2026-05-09
+  * styfle/- [README.md](http://github.com/styfle/awesome-desktop-js/blob/master/README.md) ⭐ 873 | 🐛 6 | 📅 2026-05-09
 * awesome-dev-fun/
-  * mislavcimpersak/- [README.md](http://github.com/mislavcimpersak/awesome-dev-fun/blob/master/README.md) ⭐ 659 | 🐛 2 | 📅 2026-08-28
+  * mislavcimpersak/- [README.md](http://github.com/mislavcimpersak/awesome-dev-fun/blob/master/README.md) ⭐ 660 | 🐛 2 | 📅 2026-08-28
 * awesome-dev-websites/
   * christopherkade/- [README.md](http://github.com/christopherkade/awesome-dev-websites/blob/master/README.md) ⭐ 268 | 🐛 3 | 📅 2021-06-08
 * awesome-devblog/
@@ -416,25 +416,25 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-developer-streams/
   * bnb/- [README.md](http://github.com/bnb/awesome-developer-streams/blob/master/README.md) ⭐ 8,027 | 🐛 8 | 📅 2026-01-01
 * awesome-devtools/
-  * moimikey/- [README.md](http://github.com/moimikey/awesome-devtools/blob/master/README.md) ⭐ 539 | 🐛 61 | 📅 2026-07-27
+  * moimikey/- [README.md](http://github.com/moimikey/awesome-devtools/blob/master/README.md) ⭐ 539 | 🐛 62 | 📅 2026-07-27
 * awesome-diarization/
-  * wq2012/- [README.md](http://github.com/wq2012/awesome-diarization/blob/master/README.md) ⭐ 1,905 | 🐛 5 | 📅 2026-09-16
+  * wq2012/- [README.md](http://github.com/wq2012/awesome-diarization/blob/master/README.md) ⭐ 1,906 | 🐛 5 | 📅 2026-09-16
 * awesome-digital-nomads/
-  * cbovis/- [README.md](http://github.com/cbovis/awesome-digital-nomads/blob/master/README.md) ⭐ 1,067 | 🐛 65 | 📅 2024-06-14
+  * cbovis/- [README.md](http://github.com/cbovis/awesome-digital-nomads/blob/master/README.md) ⭐ 1,068 | 🐛 65 | 📅 2024-06-14
 * awesome-digitalocean/
   * jonleibowitz/- [README.md](http://github.com/jonleibowitz/awesome-digitalocean/blob/master/README.md) ⭐ 381 | 🐛 3 | 📅 2021-04-30
 * awesome-discord/
-  * jacc/- [README.md](http://github.com/jacc/awesome-discord/blob/master/README.md) ⭐ 537 | 🐛 29 | 📅 2026-05-11
+  * jacc/- [README.md](http://github.com/jacc/awesome-discord/blob/master/README.md) ⭐ 536 | 🐛 29 | 📅 2026-05-11
 * awesome-distributed-deep-learning/
   * bharathgs/- [README.md](http://github.com/bharathgs/awesome-distributed-deep-learning/blob/master/README.md) ⭐ 443 | 🐛 1 | 📅 2024-07-28
 * awesome-distributed-systems/
   * rshetty/- [README.md](http://github.com/rshetty/awesome-distributed-systems/blob/master/README.md) ⭐ 1,633 | 🐛 3 | 📅 2025-07-23
   * gojek/- [README.md](http://github.com/gojek/awesome-distributed-systems/blob/master/README.md) ⭐ 844 | 🐛 2 | 📅 2024-07-10
 * awesome-diversity/
-  * folkswhocode/- [README.md](http://github.com/folkswhocode/awesome-diversity/blob/master/README.md) ⭐ 660 | 🐛 15 | 📅 2024-04-14
+  * folkswhocode/- [README.md](http://github.com/folkswhocode/awesome-diversity/blob/master/README.md) ⭐ 661 | 🐛 15 | 📅 2024-04-14
 * awesome-django/
-  * wsvincent/- [README.md](http://github.com/wsvincent/awesome-django/blob/master/README.md) ⭐ 11,267 | 🐛 5 | 🌐 Python | 📅 2026-09-16
-  * shahraizali/- [README.md](http://github.com/shahraizali/awesome-django/blob/master/README.md) ⭐ 1,918 | 🐛 8 | 📅 2026-03-22
+  * wsvincent/- [README.md](http://github.com/wsvincent/awesome-django/blob/master/README.md) ⭐ 11,268 | 🐛 5 | 🌐 Python | 📅 2026-09-16
+  * shahraizali/- [README.md](http://github.com/shahraizali/awesome-django/blob/master/README.md) ⭐ 1,916 | 🐛 8 | 📅 2026-03-22
 * awesome-django-admin/
   * originalankur/- [README.md](http://github.com/originalankur/awesome-django-admin/blob/master/README.md) ⭐ 1,236 | 🐛 1 | 📅 2026-02-24
 * awesome-django-rest-framework/
@@ -442,20 +442,20 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-dl/
   * kickball/- [README.md](http://github.com/kickball/awesome-dl/blob/master/README.md) ⭐ 103 | 🐛 1 | 📅 2020-05-07
 * awesome-docker/
-  * veggiemonk/- [README.md](http://github.com/veggiemonk/awesome-docker/blob/master/README.md) ⭐ 36,945 | 🐛 47 | 📅 2026-10-02
+  * veggiemonk/- [README.md](http://github.com/veggiemonk/awesome-docker/blob/master/README.md) ⭐ 36,949 | 🐛 47 | 📅 2026-10-02
 * awesome-docsify/
   * docsifyjs/- [README.md](http://github.com/docsifyjs/awesome-docsify/blob/master/README.md) ⭐ 2,653 | 🐛 4 | 📅 2026-09-18
 * awesome-doctrine/
   * biberlabs/- [README.md](http://github.com/biberlabs/awesome-doctrine/blob/master/README.md) ⭐ 269 | 🐛 0 | 📅 2020-06-23
 * awesome-documentation-tools/
-  * unicodeveloper/- [README.md](http://github.com/unicodeveloper/awesome-documentation-tools/blob/master/README.md) ⭐ 219 | 🐛 11 | 📅 2026-03-11
+  * unicodeveloper/- [README.md](http://github.com/unicodeveloper/awesome-documentation-tools/blob/master/README.md) ⭐ 218 | 🐛 11 | 📅 2026-03-11
 * awesome-dotfiles/
   * webpro/- [README.md](http://github.com/webpro/awesome-dotfiles/blob/master/README.md) ⭐ 10,885 | 🐛 4 | 📅 2026-07-26
-  * willpower3309/- [README.md](http://github.com/willpower3309/awesome-dotfiles/blob/master/README.md) ⭐ 1,340 | 🐛 18 | 🌐 Lua | 📅 2024-08-09
+  * willpower3309/- [README.md](http://github.com/willpower3309/awesome-dotfiles/blob/master/README.md) ⭐ 1,339 | 🐛 18 | 🌐 Lua | 📅 2024-08-09
 * awesome-dotnet/
-  * quozd/- [README.md](http://github.com/quozd/awesome-dotnet/blob/master/README.md) ⭐ 21,637 | 🐛 163 | 📅 2026-03-26
+  * quozd/- [README.md](http://github.com/quozd/awesome-dotnet/blob/master/README.md) ⭐ 21,639 | 🐛 163 | 📅 2026-03-26
 * awesome-dotnet-core/
-  * thangchung/- [README.md](http://github.com/thangchung/awesome-dotnet-core/blob/master/README.md) ⭐ 21,400 | 🐛 217 | 🌐 C# | 📅 2026-02-27
+  * thangchung/- [README.md](http://github.com/thangchung/awesome-dotnet-core/blob/master/README.md) ⭐ 21,398 | 🐛 217 | 🌐 C# | 📅 2026-02-27
   * jasonhua95/- [README.md](http://github.com/jasonhua95/awesome-dotnet-core/blob/master/README.md) ⭐ 2,080 | 🐛 5 | 🌐 C# | 📅 2024-06-14
 * awesome-dotnet-security/
   * guardrailsio/- [README.md](http://github.com/guardrailsio/awesome-dotnet-security/blob/master/README.md) ⭐ 535 | 🐛 1 | 📅 2026-02-27
@@ -472,15 +472,15 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-ebpf/
   * zoidbergwill/- [README.md](http://github.com/zoidbergwill/awesome-ebpf/blob/master/README.md) ⭐ 5,178 | 🐛 19 | 📅 2026-09-14
 * awesome-education/
-  * wowlusitong/- [README.md](http://github.com/wowlusitong/awesome-education/blob/master/README.md) ⭐ 2,160 | 🐛 6 | 📅 2021-03-14
+  * wowlusitong/- [README.md](http://github.com/wowlusitong/awesome-education/blob/master/README.md) ⭐ 2,162 | 🐛 6 | 📅 2021-03-14
 * awesome-educational-games/
-  * yrgo/- [README.md](http://github.com/yrgo/awesome-educational-games/blob/master/README.md) ⭐ 1,183 | 🐛 15 | 📅 2024-04-08
+  * yrgo/- [README.md](http://github.com/yrgo/awesome-educational-games/blob/master/README.md) ⭐ 1,184 | 🐛 15 | 📅 2024-04-08
 * awesome-elasticsearch/
   * dzharii/- [README.md](http://github.com/dzharii/awesome-elasticsearch/blob/master/README.md) ⚠️ Archived
 * awesome-electron/
-  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-electron/blob/master/README.md) ⭐ 27,299 | 🐛 7 | 📅 2026-05-03
+  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-electron/blob/master/README.md) ⭐ 27,301 | 🐛 7 | 📅 2026-05-03
 * awesome-electronics/
-  * kitspace/- [README.md](http://github.com/kitspace/awesome-electronics/blob/master/README.md) ⭐ 8,179 | 🐛 40 | 📅 2026-09-14
+  * kitspace/- [README.md](http://github.com/kitspace/awesome-electronics/blob/master/README.md) ⭐ 8,180 | 🐛 40 | 📅 2026-09-14
 * awesome-eli5/
   * swapagarwal/- [README.md](http://github.com/swapagarwal/awesome-eli5/blob/master/README.md) ⭐ 457 | 🐛 47 | 📅 2023-10-26
 * awesome-elm/
@@ -488,11 +488,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-emails/
   * jonathandion/- [README.md](http://github.com/jonathandion/awesome-emails/blob/master/README.md) ⭐ 2,751 | 🐛 52 | 📅 2024-10-03
 * awesome-embedded/
-  * nhivp/- [README.md](http://github.com/nhivp/awesome-embedded/blob/master/README.md) ⭐ 9,165 | 🐛 8 | 📅 2026-09-06
+  * nhivp/- [README.md](http://github.com/nhivp/awesome-embedded/blob/master/README.md) ⭐ 9,166 | 🐛 8 | 📅 2026-09-06
 * awesome-embedded-and-iot-security/
   * fkie-cad/- [README.md](http://github.com/fkie-cad/awesome-embedded-and-iot-security/blob/master/README.md) ⭐ 2,460 | 🐛 1 | 📅 2023-10-17
 * awesome-embedded-rust/
-  * rust-embedded/- [README.md](http://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md) ⭐ 8,121 | 🐛 15 | 📅 2026-10-02
+  * rust-embedded/- [README.md](http://github.com/rust-embedded/awesome-embedded-rust/blob/master/README.md) ⭐ 8,124 | 🐛 15 | 📅 2026-10-02
 * awesome-embedding-models/
   * hironsan/- [README.md](http://github.com/hironsan/awesome-embedding-models/blob/master/README.md) ⭐ 1,855 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-04-07
 * awesome-ember/
@@ -500,7 +500,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-engineering-team-principles/
   * posquit0/- [README.md](http://github.com/posquit0/awesome-engineering-team-principles/blob/master/README.md) ⭐ 405 | 🐛 2 | 📅 2024-01-31
 * awesome-english/
-  * yvoronoy/- [README.md](http://github.com/yvoronoy/awesome-english/blob/master/README.md) ⭐ 4,076 | 🐛 6 | 🌐 HTML | 📅 2026-09-12
+  * yvoronoy/- [README.md](http://github.com/yvoronoy/awesome-english/blob/master/README.md) ⭐ 4,079 | 🐛 6 | 🌐 HTML | 📅 2026-09-12
 * awesome-eos/
   * superoneio/- [README.md](http://github.com/superoneio/awesome-eos/blob/master/README.md) ⭐ 160 | 🐛 2 | 📅 2018-11-02
 * awesome-erlang/
@@ -514,11 +514,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-esolangs/
   * angrykoala/- [README.md](http://github.com/angrykoala/awesome-esolangs/blob/master/README.md) ⭐ 603 | 🐛 11 | 📅 2026-09-29
 * awesome-explorables/
-  * sp4ke/- [README.md](http://github.com/sp4ke/awesome-explorables/blob/master/README.md) ⭐ 1,052 | 🐛 8 | 📅 2026-08-14
+  * sp4ke/- [README.md](http://github.com/sp4ke/awesome-explorables/blob/master/README.md) ⭐ 1,053 | 🐛 8 | 📅 2026-08-14
 * awesome-express/
   * wabg/- [README.md](http://github.com/wabg/awesome-express/blob/master/README.md) ⭐ 281 | 🐛 0 | 📅 2024-03-05
 * awesome-falsehood/
-  * kdeldycke/- [README.md](http://github.com/kdeldycke/awesome-falsehood/blob/master/README.md) ⭐ 27,745 | 🐛 4 | 📅 2026-09-23
+  * kdeldycke/- [README.md](http://github.com/kdeldycke/awesome-falsehood/blob/master/README.md) ⭐ 27,747 | 🐛 4 | 📅 2026-09-23
 * awesome-fantasy/
   * richardlitt/- [README.md](http://github.com/richardlitt/awesome-fantasy/blob/master/README.md) ⭐ 1,579 | 🐛 0 | 📅 2026-10-01
 * awesome-fastify/
@@ -530,11 +530,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-firebase/
   * jthegedus/- [README.md](http://github.com/jthegedus/awesome-firebase/blob/master/README.md) ⭐ 795 | 🐛 11 | 📅 2024-04-06
 * awesome-fish/
-  * jorgebucaran/- [README.md](http://github.com/jorgebucaran/awesome-fish/blob/master/README.md) ⭐ 5,086 | 🐛 19 | 📅 2026-01-25
+  * jorgebucaran/- [README.md](http://github.com/jorgebucaran/awesome-fish/blob/master/README.md) ⭐ 5,087 | 🐛 19 | 📅 2026-01-25
 * awesome-flake8-extensions/
-  * dmytrolitvinov/- [README.md](http://github.com/dmytrolitvinov/awesome-flake8-extensions/blob/master/README.md) ⭐ 1,283 | 🐛 1 | 📅 2026-07-21
+  * dmytrolitvinov/- [README.md](http://github.com/dmytrolitvinov/awesome-flake8-extensions/blob/master/README.md) ⭐ 1,282 | 🐛 1 | 📅 2026-07-21
 * awesome-flask/
-  * humiaozuzu/- [README.md](http://github.com/humiaozuzu/awesome-flask/blob/master/README.md) ⭐ 12,782 | 🐛 7 | 📅 2026-08-17
+  * humiaozuzu/- [README.md](http://github.com/humiaozuzu/awesome-flask/blob/master/README.md) ⭐ 12,784 | 🐛 7 | 📅 2026-08-17
   * mjhea0/- [README.md](http://github.com/mjhea0/awesome-flask/blob/master/README.md) ⭐ 1,792 | 🐛 0 | 📅 2026-05-13
 * awesome-flexbox/
   * afonsopacifer/- [README.md](http://github.com/afonsopacifer/awesome-flexbox/blob/master/README.md) ⭐ 1,264 | 🐛 4 | 📅 2023-09-07
@@ -543,29 +543,29 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-flow/
   * dustinspecker/- [README.md](http://github.com/dustinspecker/awesome-flow/blob/master/README.md) ⭐ 127 | 🐛 2 | 📅 2019-05-06
 * awesome-flutter/
-  * solido/- [README.md](http://github.com/solido/awesome-flutter/blob/master/README.md) ⭐ 61,387 | 🐛 38 | 🌐 Dart | 📅 2026-09-03
+  * solido/- [README.md](http://github.com/solido/awesome-flutter/blob/master/README.md) ⭐ 61,396 | 🐛 38 | 🌐 Dart | 📅 2026-09-03
 * awesome-flutter-packages/
   * leisim/- [README.md](http://github.com/leisim/awesome-flutter-packages/blob/master/README.md) ⚠️ Archived
 * awesome-fonts/
-  * brabadu/- [README.md](http://github.com/brabadu/awesome-fonts/blob/master/README.md) ⭐ 2,073 | 🐛 12 | 📅 2026-07-26
+  * brabadu/- [README.md](http://github.com/brabadu/awesome-fonts/blob/master/README.md) ⭐ 2,075 | 🐛 12 | 📅 2026-07-26
 * awesome-for-beginners/
-  * mungell/- [README.md](http://github.com/mungell/awesome-for-beginners/blob/master/README.md) ⭐ 89,794 | 🐛 144 | 📅 2026-10-01
+  * mungell/- [README.md](http://github.com/mungell/awesome-for-beginners/blob/master/README.md) ⭐ 89,807 | 🐛 144 | 📅 2026-10-01
 * awesome-forensicstools/
-  * ivbeg/- [README.md](http://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) ⭐ 554 | 🐛 7 | 📅 2020-11-16
+  * ivbeg/- [README.md](http://github.com/ivbeg/awesome-forensicstools/blob/master/README.md) ⭐ 555 | 🐛 7 | 📅 2020-11-16
 * awesome-framer/
   * podo/- [README.md](http://github.com/podo/awesome-framer/blob/master/README.md) ⭐ 622 | 🐛 1 | 📅 2026-03-22
 * awesome-free-software/
-  * johnjago/- [README.md](http://github.com/johnjago/awesome-free-software/blob/master/README.md) ⭐ 2,923 | 🐛 45 | 📅 2025-04-29
+  * johnjago/- [README.md](http://github.com/johnjago/awesome-free-software/blob/master/README.md) ⭐ 2,924 | 🐛 45 | 📅 2025-04-29
 * awesome-frida/
   * dweinstein/- [README.md](http://github.com/dweinstein/awesome-frida/blob/master/README.md) ⭐ 3,540 | 🐛 5 | 📅 2026-04-10
 * awesome-frontend/
-  * jingwentian/- [README.md](http://github.com/jingwentian/awesome-frontend/blob/master/README.md) ⭐ 1,740 | 🐛 10 | 📅 2024-05-11
+  * jingwentian/- [README.md](http://github.com/jingwentian/awesome-frontend/blob/master/README.md) ⭐ 1,741 | 🐛 10 | 📅 2024-05-11
 * awesome-fuchsia/
   * leisim/- [README.md](http://github.com/leisim/awesome-fuchsia/blob/master/README.md)
 * awesome-fuse/
   * fuse-compound/- [README.md](http://github.com/fuse-compound/awesome-fuse/blob/master/README.md) ⭐ 363 | 🐛 0 | 📅 2019-02-25
 * awesome-fuzzing/
-  * secfigo/- [README.md](http://github.com/secfigo/awesome-fuzzing/blob/master/README.md) ⭐ 5,917 | 🐛 12 | 📅 2024-04-03
+  * secfigo/- [README.md](http://github.com/secfigo/awesome-fuzzing/blob/master/README.md) ⭐ 5,919 | 🐛 12 | 📅 2024-04-03
   * cpuu/- [README.md](http://github.com/cpuu/awesome-fuzzing/blob/master/README.md) ⭐ 1,000 | 🐛 0 | 🌐 Python | 📅 2026-09-14
 * awesome-game-ai/
   * datamllab/- [README.md](http://github.com/datamllab/awesome-game-ai/blob/master/README.md) ⭐ 981 | 🐛 5 | 📅 2024-06-26
@@ -574,25 +574,25 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-gank.io/
   * ruijun/- [README.md](http://github.com/ruijun/awesome-gank.io/blob/master/README.md) ⭐ 313 | 🐛 1 | 📅 2018-03-22
 * awesome-gbdev/
-  * gbdev/- [README.md](http://github.com/gbdev/awesome-gbdev/blob/master/README.md) ⭐ 4,520 | 🐛 24 | 📅 2026-09-27
+  * gbdev/- [README.md](http://github.com/gbdev/awesome-gbdev/blob/master/README.md) ⭐ 4,520 | 🐛 25 | 📅 2026-09-27
 * awesome-geek-podcasts/
   * ayr-ton/- [README.md](http://github.com/ayr-ton/awesome-geek-podcasts/blob/master/README.md) ⭐ 641 | 🐛 4 | 🌐 HTML | 📅 2026-03-22
 * awesome-generative-art/
-  * kosmos/- [README.md](http://github.com/kosmos/awesome-generative-art/blob/master/README.md) ⭐ 1,844 | 🐛 13 | 📅 2024-06-04
+  * kosmos/- [README.md](http://github.com/kosmos/awesome-generative-art/blob/master/README.md) ⭐ 1,845 | 🐛 13 | 📅 2024-06-04
 * awesome-geojson/
   * tmcw/- [README.md](http://github.com/tmcw/awesome-geojson/blob/master/README.md) ⭐ 2,545 | 🐛 1 | 📅 2026-09-23
 * awesome-geospatial/
-  * sacridini/- [README.md](http://github.com/sacridini/awesome-geospatial/blob/master/README.md) ⭐ 5,308 | 🐛 5 | 📅 2026-09-29
+  * sacridini/- [README.md](http://github.com/sacridini/awesome-geospatial/blob/master/README.md) ⭐ 5,309 | 🐛 6 | 📅 2026-09-29
 * awesome-gif/
   * davisonio/- [README.md](http://github.com/davisonio/awesome-gif/blob/master/README.md) ⭐ 698 | 🐛 6 | 📅 2026-05-17
 * awesome-gin/
   * flowerwrong/- [README.md](http://github.com/flowerwrong/awesome-gin/blob/master/README.md) ⭐ 431 | 🐛 0 | 📅 2022-09-08
 * awesome-gis/
-  * sshuair/- [README.md](http://github.com/sshuair/awesome-gis/blob/master/README.md) ⭐ 5,549 | 🐛 87 | 📅 2026-07-21
+  * sshuair/- [README.md](http://github.com/sshuair/awesome-gis/blob/master/README.md) ⭐ 5,549 | 🐛 88 | 📅 2026-07-21
 * awesome-gists/
   * vsouza/- [README.md](http://github.com/vsouza/awesome-gists/blob/master/README.md) ⭐ 771 | 🐛 1 | 📅 2025-06-24
 * awesome-git/
-  * dictcp/- [README.md](http://github.com/dictcp/awesome-git/blob/master/README.md) ⭐ 2,950 | 🐛 89 | 📅 2026-07-07
+  * dictcp/- [README.md](http://github.com/dictcp/awesome-git/blob/master/README.md) ⭐ 2,949 | 🐛 90 | 📅 2026-07-07
 * awesome-git-addons/
   * stevemao/- [README.md](http://github.com/stevemao/awesome-git-addons/blob/master/README.md) ⭐ 2,204 | 🐛 17 | 📅 2024-10-15
 * awesome-git-hooks/
@@ -603,11 +603,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-gnome/
   * kazhnuz/- [README.md](http://github.com/kazhnuz/awesome-gnome/blob/master/README.md) ⭐ 1,621 | 🐛 24 | 📅 2025-12-27
 * awesome-go/
-  * avelino/- [README.md](http://github.com/avelino/awesome-go/blob/master/README.md) ⭐ 186,580 | 🐛 234 | 🌐 Go | 📅 2026-10-02
+  * avelino/- [README.md](http://github.com/avelino/awesome-go/blob/master/README.md) ⭐ 186,646 | 🐛 234 | 🌐 Go | 📅 2026-10-03
 * awesome-go-china/
   * hyper0x/- [README.md](http://github.com/hyper0x/awesome-go-china/blob/master/README.md) ⭐ 1,507 | 🐛 0 | 📅 2023-10-12
 * awesome-go-cn/
-  * yinggaozhen/- [README.md](http://github.com/yinggaozhen/awesome-go-cn/blob/master/README.md) ⭐ 5,231 | 🐛 254 | 📅 2026-10-02
+  * yinggaozhen/- [README.md](http://github.com/yinggaozhen/awesome-go-cn/blob/master/README.md) ⭐ 5,231 | 🐛 255 | 📅 2026-10-03
 * awesome-go-linters/
   * golangci/- [README.md](http://github.com/golangci/awesome-go-linters/blob/master/README.md) ⚠️ Archived
 * awesome-go-perf/
@@ -617,13 +617,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-go-zh/
   * chai2010/- [README.md](http://github.com/chai2010/awesome-go-zh/blob/master/README.md) ⭐ 1,268 | 🐛 2 | 🌐 Go | 📅 2022-10-20
 * awesome-godot/
-  * calinou/- [README.md](http://github.com/calinou/awesome-godot/blob/master/README.md) ⭐ 10,839 | 🐛 75 | 📅 2026-09-12
+  * calinou/- [README.md](http://github.com/calinou/awesome-godot/blob/master/README.md) ⭐ 10,842 | 🐛 75 | 📅 2026-09-12
 * awesome-google-cloud/
   * googlecloudplatform/- [README.md](http://github.com/googlecloudplatform/awesome-google-cloud/blob/master/README.md) ⚠️ Archived
 * awesome-gradle/
   * ksoichiro/- [README.md](http://github.com/ksoichiro/awesome-gradle/blob/master/README.md) ⭐ 486 | 🐛 4 | 📅 2023-10-08
 * awesome-graphql/
-  * chentsulin/- [README.md](http://github.com/chentsulin/awesome-graphql/blob/master/README.md) ⭐ 15,129 | 🐛 2 | 📅 2026-09-28
+  * chentsulin/- [README.md](http://github.com/chentsulin/awesome-graphql/blob/master/README.md) ⭐ 15,129 | 🐛 2 | 📅 2026-10-03
 * awesome-grid/
   * fancygrid/- [README.md](http://github.com/fancygrid/awesome-grid/blob/master/README.md) ⭐ 1,630 | 🐛 16 | 📅 2025-07-11
 * awesome-grid-layout/
@@ -633,18 +633,18 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-grpc/
   * grpc-ecosystem/- [README.md](http://github.com/grpc-ecosystem/awesome-grpc/blob/master/README.md) ⭐ 8,355 | 🐛 28 | 📅 2025-10-28
 * awesome-gui-websites/
-  * syxanash/- [README.md](http://github.com/syxanash/awesome-gui-websites/blob/master/README.md) ⭐ 2,104 | 🐛 0 | 🌐 Ruby | 📅 2026-10-02
+  * syxanash/- [README.md](http://github.com/syxanash/awesome-gui-websites/blob/master/README.md) ⭐ 2,105 | 🐛 0 | 🌐 Ruby | 📅 2026-10-02
 * awesome-guidelines/
-  * kristories/- [README.md](http://github.com/kristories/awesome-guidelines/blob/master/README.md) ⭐ 11,147 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28
+  * kristories/- [README.md](http://github.com/kristories/awesome-guidelines/blob/master/README.md) ⭐ 11,148 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28
 * awesome-gulp-cn/
   * pines-cheng/- [README.md](http://github.com/pines-cheng/awesome-gulp-cn/blob/master/README.md) ⭐ 130 | 🐛 0 | 📅 2018-06-11
 * awesome-h2o/
   * h2oai/- [README.md](http://github.com/h2oai/awesome-h2o/blob/master/README.md) ⭐ 394 | 🐛 1 | 📅 2023-05-18
 * awesome-hacking/
-  * hack-with-github/- [README.md](http://github.com/hack-with-github/awesome-hacking/blob/master/README.md) ⭐ 121,709 | 🐛 43 | 📅 2026-07-26
+  * hack-with-github/- [README.md](http://github.com/hack-with-github/awesome-hacking/blob/master/README.md) ⭐ 121,732 | 🐛 43 | 📅 2026-07-26
   * carpedm20/- [README.md](http://github.com/carpedm20/awesome-hacking/blob/master/README.md) ⭐ 17,186 | 🐛 74 | 📅 2024-06-02
 * awesome-hacktoberfest-2019/
-  * otacilion/- [README.md](http://github.com/otacilion/awesome-hacktoberfest-2019/blob/master/README.md) ⭐ 861 | 🐛 30 | 📅 2023-11-03
+  * otacilion/- [README.md](http://github.com/otacilion/awesome-hacktoberfest-2019/blob/master/README.md) ⭐ 862 | 🐛 30 | 📅 2023-11-03
 * awesome-hammerspoon/
   * ashfinal/- [README.md](http://github.com/ashfinal/awesome-hammerspoon/blob/master/README.md) ⭐ 1,328 | 🐛 11 | 🌐 Lua | 📅 2023-04-10
 * awesome-hanami/
@@ -658,23 +658,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-hbase/
   * rayokota/- [README.md](http://github.com/rayokota/awesome-hbase/blob/master/README.md) ⭐ 180 | 🐛 0 | 📅 2026-05-18
 * awesome-hcloud/
-  * hetznercloud/- [README.md](http://github.com/hetznercloud/awesome-hcloud/blob/master/README.md) ⭐ 1,357 | 🐛 10 | 📅 2026-09-21
+  * hetznercloud/- [README.md](http://github.com/hetznercloud/awesome-hcloud/blob/master/README.md) ⭐ 1,358 | 🐛 10 | 📅 2026-09-21
 * awesome-hdl/
   * drom/- [README.md](http://github.com/drom/awesome-hdl/blob/master/README.md) ⭐ 1,176 | 🐛 2 | 📅 2026-07-09
 * awesome-he/
   * jonaschn/- [README.md](http://github.com/jonaschn/awesome-he/blob/master/README.md) ⭐ 1,257 | 🐛 9 | 📅 2025-03-25
 * awesome-healthcare/
-  * kakoni/- [README.md](http://github.com/kakoni/awesome-healthcare/blob/master/README.md) ⭐ 3,998 | 🐛 72 | 📅 2026-05-05
+  * kakoni/- [README.md](http://github.com/kakoni/awesome-healthcare/blob/master/README.md) ⭐ 3,999 | 🐛 72 | 📅 2026-05-05
 * awesome-helm/
   * cdwv/- [README.md](http://github.com/cdwv/awesome-helm/blob/master/README.md) ⭐ 1,116 | 🐛 10 | 📅 2026-05-16
 * awesome-holistic-3d/
-  * holistic-3d/- [README.md](http://github.com/holistic-3d/awesome-holistic-3d/blob/master/README.md) ⭐ 650 | 🐛 1 | 📅 2021-02-20
+  * holistic-3d/- [README.md](http://github.com/holistic-3d/awesome-holistic-3d/blob/master/README.md) ⭐ 651 | 🐛 1 | 📅 2021-02-20
 * awesome-home-assistant/
-  * frenck/- [README.md](http://github.com/frenck/awesome-home-assistant/blob/master/README.md) ⭐ 8,495 | 🐛 28 | 🌐 Python | 📅 2026-10-02
+  * frenck/- [README.md](http://github.com/frenck/awesome-home-assistant/blob/master/README.md) ⭐ 8,497 | 🐛 28 | 🌐 Python | 📅 2026-10-02
 * awesome-homematic/
   * homematic-community/- [README.md](http://github.com/homematic-community/awesome-homematic/blob/master/README.md) ⭐ 212 | 🐛 0 | 📅 2026-09-26
 * awesome-honeypots/
-  * paralax/- [README.md](http://github.com/paralax/awesome-honeypots/blob/master/README.md) ⭐ 10,576 | 🐛 30 | 🌐 Python | 📅 2026-06-01
+  * paralax/- [README.md](http://github.com/paralax/awesome-honeypots/blob/master/README.md) ⭐ 10,579 | 🐛 30 | 🌐 Python | 📅 2026-06-01
 * awesome-html5/
   * diegocard/- [README.md](http://github.com/diegocard/awesome-html5/blob/master/README.md) ⭐ 2,811 | 🐛 18 | 📅 2023-09-26
 * awesome-http-benchmark/
@@ -686,7 +686,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-hungarian-nlp/
   * oroszgy/- [README.md](http://github.com/oroszgy/awesome-hungarian-nlp/blob/master/README.md) ⭐ 282 | 🐛 6 | 📅 2026-04-14
 * awesome-hyper/
-  * bnb/- [README.md](http://github.com/bnb/awesome-hyper/blob/master/README.md) ⭐ 11,007 | 🐛 23 | 📅 2022-09-20
+  * bnb/- [README.md](http://github.com/bnb/awesome-hyper/blob/master/README.md) ⭐ 11,008 | 🐛 23 | 📅 2022-09-20
 * awesome-hyperapp/
   * jorgebucaran/- [README.md](http://github.com/jorgebucaran/awesome-hyperapp/blob/master/README.md) ⭐ 502 | 🐛 4 | 📅 2025-10-03
 * awesome-hyperledger-fabric/
@@ -694,7 +694,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-iconjar/
   * pluwen/- [README.md](http://github.com/pluwen/awesome-iconjar/blob/master/README.md) ⭐ 273 | 🐛 0 | 📅 2026-08-12
 * awesome-icons/
-  * vkarampinis/- [README.md](http://github.com/vkarampinis/awesome-icons/blob/master/README.md) ⭐ 1,567 | 🐛 5 | 📅 2026-09-17
+  * vkarampinis/- [README.md](http://github.com/vkarampinis/awesome-icons/blob/master/README.md) ⭐ 1,568 | 🐛 5 | 📅 2026-09-17
   * notlmn/- [README.md](http://github.com/notlmn/awesome-icons/blob/master/README.md) ⭐ 1,006 | 🐛 11 | 📅 2026-08-27
 * awesome-ideation-tools/
   * zazaalaza/- [README.md](http://github.com/zazaalaza/awesome-ideation-tools/blob/master/README.md) ⭐ 238 | 🐛 0 | 📅 2017-03-07
@@ -703,7 +703,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-image-classification/
   * weiaicunzai/- [README.md](http://github.com/weiaicunzai/awesome-image-classification/blob/master/README.md) ⭐ 3,067 | 🐛 1 | 📅 2022-04-20
 * awesome-image-registration/
-  * awesome-image-registration-organization/- [README.md](http://github.com/awesome-image-registration-organization/awesome-image-registration/blob/master/README.md) ⭐ 1,546 | 🐛 0 | 📅 2026-07-23
+  * awesome-image-registration-organization/- [README.md](http://github.com/awesome-image-registration-organization/awesome-image-registration/blob/master/README.md) ⭐ 1,547 | 🐛 0 | 📅 2026-07-23
 * awesome-imba/
   * koolamusic/- [README.md](http://github.com/koolamusic/awesome-imba/blob/master/README.md) ⭐ 139 | 🐛 0 | 📅 2021-10-18
 * awesome-imbalanced-learning/
@@ -713,13 +713,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-immigration/
   * acacess/- [README.md](http://github.com/acacess/awesome-immigration/blob/master/README.md)
 * awesome-incident-response/
-  * meirwah/- [README.md](http://github.com/meirwah/awesome-incident-response/blob/master/README.md) ⭐ 9,426 | 🐛 88 | 📅 2026-07-15
+  * meirwah/- [README.md](http://github.com/meirwah/awesome-incident-response/blob/master/README.md) ⭐ 9,427 | 🐛 88 | 📅 2026-07-15
 * awesome-indie/
   * mezod/- [README.md](http://github.com/mezod/awesome-indie/blob/master/README.md) ⭐ 11,837 | 🐛 111 | 📅 2024-06-12
 * awesome-influxdb/
-  * mark-rushakoff/- [README.md](http://github.com/mark-rushakoff/awesome-influxdb/blob/master/README.md) ⭐ 820 | 🐛 6 | 📅 2024-05-08
+  * mark-rushakoff/- [README.md](http://github.com/mark-rushakoff/awesome-influxdb/blob/master/README.md) ⭐ 819 | 🐛 6 | 📅 2024-05-08
 * awesome-infosec/
-  * onlurking/- [README.md](http://github.com/onlurking/awesome-infosec/blob/master/README.md) ⭐ 5,755 | 🐛 19 | 📅 2026-08-28
+  * onlurking/- [README.md](http://github.com/onlurking/awesome-infosec/blob/master/README.md) ⭐ 5,754 | 🐛 19 | 📅 2026-08-28
 * awesome-inspiration/
   * swapagarwal/- [README.md](http://github.com/swapagarwal/awesome-inspiration/blob/master/README.md) ⭐ 300 | 🐛 38 | 📅 2024-07-02
 * awesome-interview-questions/
@@ -731,7 +731,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-ionic/
   * candelibas/- [README.md](http://github.com/candelibas/awesome-ionic/blob/master/README.md) ⭐ 866 | 🐛 2 | 📅 2026-08-18
 * awesome-ios/
-  * vsouza/- [README.md](http://github.com/vsouza/awesome-ios/blob/master/README.md) ⭐ 53,496 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
+  * vsouza/- [README.md](http://github.com/vsouza/awesome-ios/blob/master/README.md) ⭐ 53,502 | 🐛 27 | 🌐 Swift | 📅 2026-08-27
 * awesome-iot-hacks/
   * nebgnahz/- [README.md](http://github.com/nebgnahz/awesome-iot-hacks/blob/master/README.md) ⭐ 2,429 | 🐛 3 | 📅 2020-05-16
 * awesome-ipfs/
@@ -741,7 +741,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-irc/
   * davisonio/- [README.md](http://github.com/davisonio/awesome-irc/blob/master/README.md) ⭐ 1,335 | 🐛 2 | 📅 2026-08-11
 * awesome-it-quotes/
-  * victorlaerte/- [README.md](http://github.com/victorlaerte/awesome-it-quotes/blob/master/README.md) ⭐ 632 | 🐛 2 | 📅 2021-01-26
+  * victorlaerte/- [README.md](http://github.com/victorlaerte/awesome-it-quotes/blob/master/README.md) ⭐ 633 | 🐛 2 | 📅 2021-01-26
 * awesome-italian-public-datasets/
   * italia/- [README.md](http://github.com/italia/awesome-italian-public-datasets/blob/master/README.md) ⭐ 333 | 🐛 13 | 📅 2023-10-16
 * awesome-italy-events/
@@ -749,17 +749,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-jamstack/
   * automata/- [README.md](http://github.com/automata/awesome-jamstack/blob/master/README.md) ⭐ 1,370 | 🐛 33 | 📅 2026-08-17
 * awesome-java/
-  * akullpp/- [README.md](http://github.com/akullpp/awesome-java/blob/master/README.md) ⭐ 49,141 | 🐛 10 | 📅 2026-09-23
+  * akullpp/- [README.md](http://github.com/akullpp/awesome-java/blob/master/README.md) ⭐ 49,144 | 🐛 10 | 📅 2026-09-23
 * awesome-java-security/
   * guardrailsio/- [README.md](http://github.com/guardrailsio/awesome-java-security/blob/master/README.md) ⭐ 321 | 🐛 5 | 📅 2023-08-24
 * awesome-javascript-learning/
-  * micromata/- [README.md](http://github.com/micromata/awesome-javascript-learning/blob/master/README.md) ⭐ 5,858 | 🐛 10 | 📅 2026-02-01
+  * micromata/- [README.md](http://github.com/micromata/awesome-javascript-learning/blob/master/README.md) ⭐ 5,859 | 🐛 10 | 📅 2026-02-01
 * awesome-jest/
   * jest-community/- [README.md](http://github.com/jest-community/awesome-jest/blob/master/README.md) ⭐ 1,552 | 🐛 6 | 📅 2026-09-22
 * awesome-jmeter/
   * aliesbelik/- [README.md](http://github.com/aliesbelik/awesome-jmeter/blob/master/README.md) ⭐ 807 | 🐛 4 | 🌐 HTML | 📅 2026-08-01
 * awesome-job-boards/
-  * tramcar/- [README.md](http://github.com/tramcar/awesome-job-boards/blob/master/README.md) ⭐ 1,873 | 🐛 37 | 📅 2026-07-29
+  * tramcar/- [README.md](http://github.com/tramcar/awesome-job-boards/blob/master/README.md) ⭐ 1,874 | 🐛 37 | 📅 2026-07-29
 * awesome-jq/
   * fiatjaf/- [README.md](http://github.com/fiatjaf/awesome-jq/blob/master/README.md) ⭐ 984 | 🐛 8 | 📅 2026-08-17
 * awesome-jquery/
@@ -769,7 +769,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-json-datasets/
   * jdorfman/- [README.md](http://github.com/jdorfman/awesome-json-datasets/blob/master/README.md) ⚠️ Archived
 * awesome-jupyter/
-  * markusschanta/- [README.md](http://github.com/markusschanta/awesome-jupyter/blob/master/README.md) ⭐ 4,678 | 🐛 8 | 📅 2026-10-01
+  * markusschanta/- [README.md](http://github.com/markusschanta/awesome-jupyter/blob/master/README.md) ⭐ 4,678 | 🐛 8 | 📅 2026-10-03
 * awesome-jupyterlab/
   * mauhai/- [README.md](http://github.com/mauhai/awesome-jupyterlab/blob/master/README.md) ⚠️ Archived
 * awesome-jupyterlab-extension/
@@ -787,7 +787,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-kubernetes-notes/
   * overnote/- [README.md](http://github.com/overnote/awesome-kubernetes-notes/blob/master/README.md) ⭐ 381 | 🐛 2 | 🌐 HTML | 📅 2020-03-15
 * awesome-laravel/
-  * chiraggude/- [README.md](http://github.com/chiraggude/awesome-laravel/blob/master/README.md) ⭐ 13,110 | 🐛 93 | 📅 2024-07-03
+  * chiraggude/- [README.md](http://github.com/chiraggude/awesome-laravel/blob/master/README.md) ⭐ 13,111 | 🐛 93 | 📅 2024-07-03
   * timothydjones/- [README.md](http://github.com/timothydjones/awesome-laravel/blob/master/README.md) ⭐ 1,651 | 🐛 40 | 📅 2024-07-03
 * awesome-laravel-admin/
   * jxlwqq/- [README.md](http://github.com/jxlwqq/awesome-laravel-admin/blob/master/README.md) ⭐ 228 | 🐛 0 | 📅 2021-07-22
@@ -806,7 +806,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-leetcode/
   * tangweikun/- [README.md](http://github.com/tangweikun/awesome-leetcode/blob/master/README.md) ⭐ 470 | 🐛 0 | 📅 2021-06-04
 * awesome-legal/
-  * ankane/- [README.md](http://github.com/ankane/awesome-legal/blob/master/README.md) ⭐ 1,187 | 🐛 0 | 📅 2026-07-04
+  * ankane/- [README.md](http://github.com/ankane/awesome-legal/blob/master/README.md) ⭐ 1,188 | 🐛 0 | 📅 2026-07-04
 * awesome-lego/
   * ad-si/- [README.md](http://github.com/ad-si/awesome-lego/blob/master/README.md) ⭐ 434 | 🐛 0 | 📅 2026-09-16
 * awesome-libgdx/
@@ -820,7 +820,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-linux-containers/
   * friz-zy/- [README.md](http://github.com/friz-zy/awesome-linux-containers/blob/master/README.md) ⭐ 2,103 | 🐛 11 | 📅 2024-04-09
 * awesome-linux-rootkits/
-  * milabs/- [README.md](http://github.com/milabs/awesome-linux-rootkits/blob/master/README.md) ⭐ 2,104 | 🐛 1 | 📅 2026-02-15
+  * milabs/- [README.md](http://github.com/milabs/awesome-linux-rootkits/blob/master/README.md) ⭐ 2,105 | 🐛 1 | 📅 2026-02-15
 * awesome-linux-zh/
   * cdoco/- [README.md](http://github.com/cdoco/awesome-linux-zh/blob/master/README.md) ⭐ 120 | 🐛 0 | 📅 2018-07-10
 * awesome-lisp-languages/
@@ -840,9 +840,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-lockpicking/
   * fabacab/- [README.md](http://github.com/fabacab/awesome-lockpicking/blob/master/README.md) ⭐ 1,937 | 🐛 13 | 📅 2022-06-28
 * awesome-loginless/
-  * fiatjaf/- [README.md](http://github.com/fiatjaf/awesome-loginless/blob/master/README.md) ⭐ 1,634 | 🐛 7 | 📅 2022-01-08
+  * fiatjaf/- [README.md](http://github.com/fiatjaf/awesome-loginless/blob/master/README.md) ⭐ 1,633 | 🐛 7 | 📅 2022-01-08
 * awesome-mac/
-  * jaywcjlove/- [README.md](http://github.com/jaywcjlove/awesome-mac/blob/master/README.md) ⭐ 115,283 | 🐛 1,075 | 🌐 Swift | 📅 2026-10-02
+  * jaywcjlove/- [README.md](http://github.com/jaywcjlove/awesome-mac/blob/master/README.md) ⭐ 115,303 | 🐛 1,080 | 🌐 Swift | 📅 2026-10-03
 * awesome-macadmin-tools/
   * smashism/- [README.md](http://github.com/smashism/awesome-macadmin-tools/blob/master/README.md) ⭐ 681 | 🐛 14 | 📅 2025-12-17
 * awesome-machine-learning-art/
@@ -852,9 +852,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-machine-learning-jupyter-notebooks-for-colab/
   * toxtli/- [README.md](http://github.com/toxtli/awesome-machine-learning-jupyter-notebooks-for-colab/blob/master/README.md) ⭐ 326 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-10-15
 * awesome-machine-learning-on-source-code/
-  * src-d/- [README.md](http://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/README.md) ⭐ 6,643 | 🐛 8 | 📅 2020-12-03
+  * src-d/- [README.md](http://github.com/src-d/awesome-machine-learning-on-source-code/blob/master/README.md) ⭐ 6,644 | 🐛 8 | 📅 2020-12-03
 * awesome-macos/
-  * ichait/- [README.md](http://github.com/ichait/awesome-macos/blob/master/README.md) ⭐ 19,281 | 🐛 203 | 📅 2026-08-23
+  * ichait/- [README.md](http://github.com/ichait/awesome-macos/blob/master/README.md) ⭐ 19,284 | 🐛 207 | 📅 2026-08-23
 * awesome-macos-command-line/
   * herrbischoff/- [README.md](http://github.com/herrbischoff/awesome-macos-command-line/blob/master/README.md) ⚠️ Archived
 * awesome-macos-command-line-zh/
@@ -868,9 +868,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-maintainers/
   * nayafia/- [README.md](http://github.com/nayafia/awesome-maintainers/blob/master/README.md) ⭐ 1,172 | 🐛 0 | 📅 2021-08-16
 * awesome-malware-analysis/
-  * rshipp/- [README.md](http://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) ⭐ 14,236 | 🐛 25 | 📅 2024-06-07
+  * rshipp/- [README.md](http://github.com/rshipp/awesome-malware-analysis/blob/master/README.md) ⭐ 14,237 | 🐛 25 | 📅 2024-06-07
 * awesome-management/
-  * kdeldycke/- [README.md](http://github.com/kdeldycke/awesome-management/blob/master/README.md) ⭐ 2,607 | 🐛 3 | 📅 2026-09-23
+  * kdeldycke/- [README.md](http://github.com/kdeldycke/awesome-management/blob/master/README.md) ⭐ 2,608 | 🐛 3 | 📅 2026-09-23
 * awesome-manifesto/
   * cristaloleg/- [README.md](http://github.com/cristaloleg/awesome-manifesto/blob/master/README.md) ⭐ 335 | 🐛 0 | 📅 2020-01-02
 * awesome-markdown/
@@ -878,26 +878,26 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-mastodon/
   * tleb/- [README.md](http://github.com/tleb/awesome-mastodon/blob/master/README.md) ⚠️ Archived
 * awesome-math/
-  * rossant/- [README.md](http://github.com/rossant/awesome-math/blob/master/README.md) ⭐ 16,516 | 🐛 1 | 🌐 Python | 📅 2026-08-14
+  * rossant/- [README.md](http://github.com/rossant/awesome-math/blob/master/README.md) ⭐ 16,519 | 🐛 1 | 🌐 Python | 📅 2026-08-14
 * awesome-mechanical-keyboard/
   * benroe/- [README.md](http://github.com/benroe/awesome-mechanical-keyboard/blob/master/README.md) ⭐ 3,321 | 🐛 23 | 🌐 Astro | 📅 2026-09-07
 * awesome-mental-health/
-  * dreamingechoes/- [README.md](http://github.com/dreamingechoes/awesome-mental-health/blob/master/README.md) ⭐ 3,656 | 🐛 52 | 🌐 HTML | 📅 2025-05-02
+  * dreamingechoes/- [README.md](http://github.com/dreamingechoes/awesome-mental-health/blob/master/README.md) ⭐ 3,657 | 🐛 52 | 🌐 HTML | 📅 2025-05-02
 * awesome-mesos/
   * dharmeshkakadia/- [README.md](http://github.com/dharmeshkakadia/awesome-mesos/blob/master/README.md) ⭐ 535 | 🐛 1 | 📅 2021-01-04
 * awesome-meta-and-manifest/
   * gokulkrishh/- [README.md](http://github.com/gokulkrishh/awesome-meta-and-manifest/blob/master/README.md) ⭐ 798 | 🐛 1 | 📅 2020-11-11
 * awesome-micro-frontends/
-  * rajasegar/- [README.md](http://github.com/rajasegar/awesome-micro-frontends/blob/master/README.md) ⭐ 1,285 | 🐛 0 | 📅 2023-12-24
+  * rajasegar/- [README.md](http://github.com/rajasegar/awesome-micro-frontends/blob/master/README.md) ⭐ 1,286 | 🐛 0 | 📅 2023-12-24
 * awesome-microbit/
-  * carlosperate/- [README.md](http://github.com/carlosperate/awesome-microbit/blob/master/README.md) ⭐ 1,201 | 🐛 6 | 🌐 HTML | 📅 2026-05-21
+  * carlosperate/- [README.md](http://github.com/carlosperate/awesome-microbit/blob/master/README.md) ⭐ 1,201 | 🐛 6 | 🌐 CSS | 📅 2026-10-02
 * awesome-micronaut/
   * jonashavers/- [README.md](http://github.com/jonashavers/awesome-micronaut/blob/master/README.md) ⭐ 238 | 🐛 0 | 📅 2026-03-14
 * awesome-micropython/
   * mcauser/- [README.md](http://github.com/mcauser/awesome-micropython/blob/master/README.md) ⭐ 1,808 | 🐛 11 | 🌐 HTML | 📅 2026-07-20
   * pfalcon/- [README.md](http://github.com/pfalcon/awesome-micropython/blob/master/README.md) ⭐ 192 | 🐛 1 | 📅 2021-11-15
 * awesome-microservices/
-  * mfornos/- [README.md](http://github.com/mfornos/awesome-microservices/blob/master/README.md) ⭐ 14,528 | 🐛 16 | 📅 2026-08-20
+  * mfornos/- [README.md](http://github.com/mfornos/awesome-microservices/blob/master/README.md) ⭐ 14,530 | 🐛 16 | 📅 2026-08-20
 * awesome-midi-sources/
   * albertmeronyo/- [README.md](http://github.com/albertmeronyo/awesome-midi-sources/blob/master/README.md) ⭐ 366 | 🐛 0 | 📅 2022-05-15
 * awesome-minimalist/
@@ -911,7 +911,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-mobile-security/
   * vaib25vicky/- [README.md](http://github.com/vaib25vicky/awesome-mobile-security/blob/master/README.md) ⭐ 3,552 | 🐛 13 | 📅 2024-03-01
 * awesome-mobile-web-development/
-  * myshov/- [README.md](http://github.com/myshov/awesome-mobile-web-development/blob/master/README.md) ⭐ 1,289 | 🐛 4 | 📅 2023-12-15
+  * myshov/- [README.md](http://github.com/myshov/awesome-mobile-web-development/blob/master/README.md) ⭐ 1,290 | 🐛 4 | 📅 2023-12-15
 * awesome-moleculer/
   * moleculerjs/- [README.md](http://github.com/moleculerjs/awesome-moleculer/blob/master/README.md) ⭐ 386 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-05
 * awesome-mongodb/
@@ -919,35 +919,35 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-monogame/
   * aloisdeniel/- [README.md](http://github.com/aloisdeniel/awesome-monogame/blob/master/README.md) ⭐ 1,456 | 🐛 3 | 📅 2025-08-18
 * awesome-monorepo/
-  * korfuri/- [README.md](http://github.com/korfuri/awesome-monorepo/blob/master/README.md) ⭐ 5,871 | 🐛 31 | 📅 2024-08-16
+  * korfuri/- [README.md](http://github.com/korfuri/awesome-monorepo/blob/master/README.md) ⭐ 5,873 | 🐛 31 | 📅 2024-08-16
 * awesome-mpvue/
   * mpvue/- [README.md](http://github.com/mpvue/awesome-mpvue/blob/master/README.md) ⭐ 1,052 | 🐛 0 | 📅 2019-03-17
 * awesome-mqtt/
-  * hobbyquaker/- [README.md](http://github.com/hobbyquaker/awesome-mqtt/blob/master/README.md) ⭐ 2,401 | 🐛 0 | 📅 2026-09-25
+  * hobbyquaker/- [README.md](http://github.com/hobbyquaker/awesome-mqtt/blob/master/README.md) ⭐ 2,401 | 🐛 1 | 📅 2026-09-25
 * awesome-msr/
   * dspinellis/- [README.md](http://github.com/dspinellis/awesome-msr/blob/master/README.md) ⭐ 493 | 🐛 0 | 📅 2026-06-01
 * awesome-multimodal-research/
-  * eurus-holmes/- [README.md](http://github.com/eurus-holmes/awesome-multimodal-research/blob/master/README.md) ⭐ 1,399 | 🐛 1 | 🌐 Python | 📅 2023-08-05
+  * eurus-holmes/- [README.md](http://github.com/eurus-holmes/awesome-multimodal-research/blob/master/README.md) ⭐ 1,400 | 🐛 1 | 🌐 Python | 📅 2023-08-05
 * awesome-music/
   * ciconia/- [README.md](http://github.com/ciconia/awesome-music/blob/master/README.md) ⭐ 2,507 | 🐛 47 | 📅 2026-05-27
 * awesome-mutation-testing/
   * theofidry/- [README.md](http://github.com/theofidry/awesome-mutation-testing/blob/master/README.md) ⭐ 474 | 🐛 2 | 📅 2026-09-25
 * awesome-naming/
-  * gruhn/- [README.md](http://github.com/gruhn/awesome-naming/blob/master/README.md) ⭐ 1,455 | 🐛 0 | 📅 2026-09-17
+  * gruhn/- [README.md](http://github.com/gruhn/awesome-naming/blob/master/README.md) ⭐ 1,456 | 🐛 0 | 📅 2026-09-17
 * awesome-nas/
   * d-x-y/- [README.md](http://github.com/d-x-y/awesome-nas/blob/master/README.md) ⭐ 2,344 | 🐛 2 | 🌐 Python | 📅 2022-09-26
 * awesome-nestjs/
-  * juliandavidmr/- [README.md](http://github.com/juliandavidmr/awesome-nestjs/blob/master/README.md) ⭐ 13,163 | 🐛 7 | 📅 2026-09-30
+  * juliandavidmr/- [README.md](http://github.com/juliandavidmr/awesome-nestjs/blob/master/README.md) ⭐ 13,164 | 🐛 7 | 📅 2026-09-30
 * awesome-network-analysis/
   * briatte/- [README.md](http://github.com/briatte/awesome-network-analysis/blob/master/README.md) ⭐ 4,120 | 🐛 19 | 🌐 R | 📅 2026-08-20
 * awesome-network-automation/
   * networktocode/- [README.md](http://github.com/networktocode/awesome-network-automation/blob/master/README.md) ⭐ 2,858 | 🐛 16 | 📅 2026-09-28
 * awesome-networking/
-  * nyquist/- [README.md](http://github.com/nyquist/awesome-networking/blob/master/README.md) ⭐ 727 | 🐛 25 | 📅 2026-06-27
+  * nyquist/- [README.md](http://github.com/nyquist/awesome-networking/blob/master/README.md) ⭐ 728 | 🐛 25 | 📅 2026-06-27
 * awesome-neuroscience/
-  * analyticalmonk/- [README.md](http://github.com/analyticalmonk/awesome-neuroscience/blob/master/README.md) ⭐ 1,727 | 🐛 5 | 📅 2026-06-24
+  * analyticalmonk/- [README.md](http://github.com/analyticalmonk/awesome-neuroscience/blob/master/README.md) ⭐ 1,728 | 🐛 6 | 📅 2026-06-24
 * awesome-newsletters/
-  * zudochkin/- [README.md](http://github.com/zudochkin/awesome-newsletters/blob/master/README.md) ⭐ 4,492 | 🐛 52 | 📅 2026-10-01
+  * zudochkin/- [README.md](http://github.com/zudochkin/awesome-newsletters/blob/master/README.md) ⭐ 4,494 | 🐛 52 | 📅 2026-10-01
   * webpro/- [README.md](http://github.com/webpro/awesome-newsletters/blob/master/README.md) ⚠️ Archived
 * awesome-nginx/
   * agile6v/- [README.md](http://github.com/agile6v/awesome-nginx/blob/master/README.md) ⭐ 1,295 | 🐛 5 | 🌐 C | 📅 2026-09-29
@@ -958,17 +958,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-nlg/
   * tokenmill/- [README.md](http://github.com/tokenmill/awesome-nlg/blob/master/README.md) ⭐ 482 | 🐛 1 | 📅 2026-09-22
 * awesome-nlp/
-  * keon/- [README.md](http://github.com/keon/awesome-nlp/blob/master/README.md) ⭐ 19,048 | 🐛 26 | 📅 2026-09-07
+  * keon/- [README.md](http://github.com/keon/awesome-nlp/blob/master/README.md) ⭐ 19,049 | 🐛 27 | 📅 2026-09-07
 * awesome-no-login-web-apps/
-  * aviaryan/- [README.md](http://github.com/aviaryan/awesome-no-login-web-apps/blob/master/README.md) ⭐ 3,376 | 🐛 180 | 📅 2026-09-25
+  * aviaryan/- [README.md](http://github.com/aviaryan/awesome-no-login-web-apps/blob/master/README.md) ⭐ 3,376 | 🐛 182 | 📅 2026-09-25
 * awesome-nodejs/
-  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-nodejs/blob/master/README.md) ⭐ 66,976 | 🐛 24 | 📅 2026-09-02
+  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-nodejs/blob/master/README.md) ⭐ 66,985 | 🐛 24 | 📅 2026-09-02
 * awesome-nodejs-cn/
   * gamedilong/- [README.md](http://github.com/gamedilong/awesome-nodejs-cn/blob/master/README.md) ⭐ 360 | 🐛 1 | 📅 2020-01-20
 * awesome-nodejs-learning/
   * kryz81/- [README.md](http://github.com/kryz81/awesome-nodejs-learning/blob/master/README.md) ⭐ 470 | 🐛 7 | 📅 2023-01-26
 * awesome-nomad/
-  * jippi/- [README.md](http://github.com/jippi/awesome-nomad/blob/master/README.md) ⭐ 916 | 🐛 1 | 📅 2026-07-17
+  * jippi/- [README.md](http://github.com/jippi/awesome-nomad/blob/master/README.md) ⭐ 917 | 🐛 1 | 📅 2026-07-17
 * awesome-non-financial-blockchain/
   * machinomy/- [README.md](http://github.com/machinomy/awesome-non-financial-blockchain/blob/master/README.md) ⭐ 672 | 🐛 3 | 📅 2020-10-12
 * awesome-nosql-guides/
@@ -976,37 +976,37 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-nova/
   * florianv/- [README.md](http://github.com/florianv/awesome-nova/blob/master/README.md) ⭐ 96 | 🐛 0 | 📅 2018-09-10
 * awesome-npm/
-  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-npm/blob/master/README.md) ⭐ 4,743 | 🐛 1 | 📅 2026-04-20
+  * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-npm/blob/master/README.md) ⭐ 4,744 | 🐛 1 | 📅 2026-04-20
 * awesome-npm-scripts/
   * ryanzim/- [README.md](http://github.com/ryanzim/awesome-npm-scripts/blob/master/README.md) ⭐ 742 | 🐛 1 | 📅 2026-07-23
 * awesome-npx/
   * junosuarez/- [README.md](http://github.com/junosuarez/awesome-npx/blob/master/README.md) ⭐ 1,314 | 🐛 18 | 🌐 JavaScript | 📅 2022-06-29
 * awesome-nuxt/
-  * nuxt-community/- [README.md](http://github.com/nuxt-community/awesome-nuxt/blob/master/README.md) ⭐ 5,532 | 🐛 30 | 📅 2025-09-15
+  * nuxt-community/- [README.md](http://github.com/nuxt-community/awesome-nuxt/blob/master/README.md) ⭐ 5,533 | 🐛 30 | 📅 2025-09-15
 * awesome-observables/
   * sindresorhus/- [README.md](http://github.com/sindresorhus/awesome-observables/blob/master/README.md) ⭐ 353 | 🐛 0 | 📅 2021-10-13
 * awesome-ocaml/
   * ocaml-community/- [README.md](http://github.com/ocaml-community/awesome-ocaml/blob/master/README.md) ⭐ 3,122 | 🐛 5 | 📅 2026-06-15
 * awesome-ocr-resources/
-  * zuminghuang/- [README.md](http://github.com/zuminghuang/awesome-ocr-resources/blob/master/README.md) ⭐ 437 | 🐛 4 | 🌐 Python | 📅 2026-10-02
+  * zuminghuang/- [README.md](http://github.com/zuminghuang/awesome-ocr-resources/blob/master/README.md) ⭐ 437 | 🐛 3 | 🌐 Python | 📅 2026-10-03
 * awesome-odroid-go/
   * chrisdiana/- [README.md](http://github.com/chrisdiana/awesome-odroid-go/blob/master/README.md) ⭐ 177 | 🐛 3 | 📅 2022-05-31
 * awesome-one-person-games/
   * yonaba/- [README.md](http://github.com/yonaba/awesome-one-person-games/blob/master/README.md) ⭐ 421 | 🐛 4 | 📅 2026-04-05
 * awesome-online-ide/
-  * styfle/- [README.md](http://github.com/styfle/awesome-online-ide/blob/master/README.md) ⭐ 3,532 | 🐛 11 | 📅 2024-12-03
+  * styfle/- [README.md](http://github.com/styfle/awesome-online-ide/blob/master/README.md) ⭐ 3,533 | 🐛 11 | 📅 2024-12-03
 * awesome-onsenui/
   * onsenui/- [README.md](http://github.com/onsenui/awesome-onsenui/blob/master/README.md) ⭐ 197 | 🐛 0 | 📅 2019-01-22
 * awesome-open-geoscience/
   * softwareunderground/- [README.md](http://github.com/softwareunderground/awesome-open-geoscience/blob/master/README.md) ⭐ 1,849 | 🐛 14 | 📅 2026-05-26
 * awesome-open-source-supporters/
-  * zachflower/- [README.md](http://github.com/zachflower/awesome-open-source-supporters/blob/master/README.md) ⭐ 696 | 🐛 0 | 📅 2026-04-07
+  * zachflower/- [README.md](http://github.com/zachflower/awesome-open-source-supporters/blob/master/README.md) ⭐ 697 | 🐛 0 | 📅 2026-04-07
 * awesome-opendata-rus/
   * infoculture/- [README.md](http://github.com/infoculture/awesome-opendata-rus/blob/master/README.md) ⭐ 226 | 🐛 1 | 📅 2021-12-16
 * awesome-opengl/
   * eug/- [README.md](http://github.com/eug/awesome-opengl/blob/master/README.md) ⭐ 2,446 | 🐛 0 | 📅 2026-01-09
 * awesome-opensource-apps/
-  * unicodeveloper/- [README.md](http://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md) ⭐ 3,918 | 🐛 60 | 📅 2026-08-27
+  * unicodeveloper/- [README.md](http://github.com/unicodeveloper/awesome-opensource-apps/blob/master/README.md) ⭐ 3,920 | 🐛 60 | 📅 2026-08-27
 * awesome-opensource-israel/
   * lirantal/- [README.md](http://github.com/lirantal/awesome-opensource-israel/blob/master/README.md) ⭐ 440 | 🐛 4 | 📅 2026-08-07
 * awesome-openstreetmap/
@@ -1014,7 +1014,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-orclapex/
   * dani3lsun/- [README.md](http://github.com/dani3lsun/awesome-orclapex/blob/master/README.md) ⭐ 193 | 🐛 5 | 📅 2021-06-11
 * awesome-os/
-  * jubalh/- [README.md](http://github.com/jubalh/awesome-os/blob/master/README.md) ⭐ 2,296 | 🐛 1 | 📅 2026-09-28
+  * jubalh/- [README.md](http://github.com/jubalh/awesome-os/blob/master/README.md) ⭐ 2,297 | 🐛 1 | 📅 2026-09-28
 * awesome-oss-funding/
   * sustainers/- [README.md](http://github.com/sustainers/awesome-oss-funding/blob/master/README.md) ⭐ 437 | 🐛 7 | 📅 2021-07-02
 * awesome-pagespeed-metrics/
@@ -1022,9 +1022,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-pascal/
   * fr0st-brutal/- [README.md](http://github.com/fr0st-brutal/awesome-pascal/blob/master/README.md) ⭐ 2,088 | 🐛 21 | 🌐 Pascal | 📅 2026-02-27
 * awesome-peer-to-peer/
-  * kgryte/- [README.md](http://github.com/kgryte/awesome-peer-to-peer/blob/master/README.md) ⭐ 2,549 | 🐛 21 | 📅 2023-03-28
+  * kgryte/- [README.md](http://github.com/kgryte/awesome-peer-to-peer/blob/master/README.md) ⭐ 2,550 | 🐛 21 | 📅 2023-03-28
 * awesome-pentest/
-  * enaqx/- [README.md](http://github.com/enaqx/awesome-pentest/blob/master/README.md) ⭐ 27,328 | 🐛 133 | 📅 2026-07-25
+  * enaqx/- [README.md](http://github.com/enaqx/awesome-pentest/blob/master/README.md) ⭐ 27,330 | 🐛 133 | 📅 2026-07-25
 * awesome-pentest-cheat-sheets/
   * coreb1t/- [README.md](http://github.com/coreb1t/awesome-pentest-cheat-sheets/blob/master/README.md) ⚠️ Archived
 * awesome-person-re-identification/
@@ -1036,7 +1036,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-phoenix/
   * droptheplot/- [README.md](http://github.com/droptheplot/awesome-phoenix/blob/master/README.md) ⭐ 617 | 🐛 5 | 🌐 Elixir | 📅 2023-02-27
 * awesome-php/
-  * ziadoz/- [README.md](http://github.com/ziadoz/awesome-php/blob/master/README.md) ⭐ 32,721 | 🐛 94 | 📅 2026-09-27
+  * ziadoz/- [README.md](http://github.com/ziadoz/awesome-php/blob/master/README.md) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27
 * awesome-php-ffi/
   * gabrielrcouto/- [README.md](http://github.com/gabrielrcouto/awesome-php-ffi/blob/master/README.md) ⭐ 319 | 🐛 4 | 🌐 C | 📅 2022-01-16
 * awesome-php-security/
@@ -1048,7 +1048,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-picgo/
   * picgo/- [README.md](http://github.com/picgo/awesome-picgo/blob/master/README.md) ⭐ 1,729 | 🐛 1 | 📅 2026-09-24
 * awesome-pico-8/
-  * pico-8/- [README.md](http://github.com/pico-8/awesome-pico-8/blob/master/README.md) ⭐ 3,081 | 🐛 0 | 📅 2026-07-28
+  * pico-8/- [README.md](http://github.com/pico-8/awesome-pico-8/blob/master/README.md) ⭐ 3,082 | 🐛 0 | 📅 2026-07-28
 * awesome-pinned-gists/
   * matchai/- [README.md](http://github.com/matchai/awesome-pinned-gists/blob/master/README.md) ⭐ 2,117 | 🐛 3 | 📅 2025-08-05
 * awesome-pixel-art/
@@ -1056,10 +1056,10 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-plotters/
   * beardicus/- [README.md](http://github.com/beardicus/awesome-plotters/blob/master/README.md) ⭐ 1,462 | 🐛 8 | 📅 2025-12-03
 * awesome-podcasts/
-  * rshetty/- [README.md](http://github.com/rshetty/awesome-podcasts/blob/master/README.md) ⭐ 13,107 | 🐛 14 | 📅 2024-03-02
-  * ghosh/- [README.md](http://github.com/ghosh/awesome-podcasts/blob/master/README.md) ⭐ 186 | 🐛 6 | 🌐 JavaScript | 📅 2023-05-26
+  * rshetty/- [README.md](http://github.com/rshetty/awesome-podcasts/blob/master/README.md) ⭐ 13,110 | 🐛 14 | 📅 2024-03-02
+  * ghosh/- [README.md](http://github.com/ghosh/awesome-podcasts/blob/master/README.md) ⭐ 185 | 🐛 6 | 🌐 JavaScript | 📅 2023-05-26
 * awesome-pokemon/
-  * tobiasbueschel/- [README.md](http://github.com/tobiasbueschel/awesome-pokemon/blob/master/README.md) ⭐ 706 | 🐛 16 | 📅 2024-11-11
+  * tobiasbueschel/- [README.md](http://github.com/tobiasbueschel/awesome-pokemon/blob/master/README.md) ⭐ 705 | 🐛 16 | 📅 2024-11-11
 * awesome-polybar/
   * tiagodanin/- [README.md](http://github.com/tiagodanin/awesome-polybar/blob/master/README.md) ⭐ 502 | 🐛 0 | 🌐 HTML | 📅 2026-04-07
 * awesome-polymer/
@@ -1077,22 +1077,22 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-privilege-escalation/
   * m0nad/- [README.md](http://github.com/m0nad/awesome-privilege-escalation/blob/master/README.md) ⭐ 1,613 | 🐛 1 | 📅 2026-03-23
 * awesome-product-design/
-  * teoga/- [README.md](http://github.com/teoga/awesome-product-design/blob/master/README.md) ⭐ 2,729 | 🐛 17 | 📅 2025-09-22
+  * teoga/- [README.md](http://github.com/teoga/awesome-product-design/blob/master/README.md) ⭐ 2,730 | 🐛 17 | 📅 2025-09-22
 * awesome-product-management/
-  * dend/- [README.md](http://github.com/dend/awesome-product-management/blob/master/README.md) ⭐ 2,388 | 🐛 116 | 🌐 CSS | 📅 2026-09-07
+  * dend/- [README.md](http://github.com/dend/awesome-product-management/blob/master/README.md) ⭐ 2,390 | 🐛 117 | 🌐 CSS | 📅 2026-09-07
   * bjpcjp/- [README.md](http://github.com/bjpcjp/awesome-product-management/blob/master/README.md) ⭐ 206 | 🐛 0 | 📅 2019-05-13
 * awesome-productivity/
-  * jyguyomarch/- [README.md](http://github.com/jyguyomarch/awesome-productivity/blob/master/README.md) ⭐ 3,359 | 🐛 206 | 📅 2024-08-14
+  * jyguyomarch/- [README.md](http://github.com/jyguyomarch/awesome-productivity/blob/master/README.md) ⭐ 3,360 | 🐛 206 | 📅 2024-08-14
 * awesome-programmers/
   * rekihattori/- [README.md](http://github.com/rekihattori/awesome-programmers/blob/master/README.md) ⭐ 2,571 | 🐛 10 | 🌐 CSS | 📅 2021-05-11
 * awesome-programming-books/
-  * zero-equals-false/- [README.md](http://github.com/zero-equals-false/awesome-programming-books/blob/master/README.md) ⭐ 2,116 | 🐛 6 | 📅 2023-10-24
+  * zero-equals-false/- [README.md](http://github.com/zero-equals-false/awesome-programming-books/blob/master/README.md) ⭐ 2,117 | 🐛 6 | 📅 2023-10-24
 * awesome-programming-for-kids/
   * hollyadele/- [README.md](http://github.com/hollyadele/awesome-programming-for-kids/blob/master/README.md) ⭐ 1,216 | 🐛 4 | 📅 2024-11-15
 * awesome-programming-presentations/
   * techgaun/- [README.md](http://github.com/techgaun/awesome-programming-presentations/blob/master/README.md) ⭐ 281 | 🐛 1 | 📅 2023-11-28
 * awesome-project-ideas/
-  * nirantk/- [README.md](http://github.com/nirantk/awesome-project-ideas/blob/master/README.md) ⭐ 9,329 | 🐛 7 | 📅 2023-03-13
+  * nirantk/- [README.md](http://github.com/nirantk/awesome-project-ideas/blob/master/README.md) ⭐ 9,330 | 🐛 7 | 📅 2023-03-13
 * awesome-prolog/
   * klaussinani/- [README.md](http://github.com/klaussinani/awesome-prolog/blob/master/README.md) ⭐ 576 | 🐛 13 | 📅 2025-09-24
 * awesome-prometheus/
@@ -1100,7 +1100,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-prometheus-alerts/
   * samber/- [README.md](http://github.com/samber/awesome-prometheus-alerts/blob/master/README.md) ⭐ 8,215 | 🐛 41 | 🌐 Astro | 📅 2026-10-02
 * awesome-puppeteer/
-  * transitive-bullshit/- [README.md](http://github.com/transitive-bullshit/awesome-puppeteer/blob/master/README.md) ⭐ 2,582 | 🐛 27 | 📅 2024-07-19
+  * transitive-bullshit/- [README.md](http://github.com/transitive-bullshit/awesome-puppeteer/blob/master/README.md) ⭐ 2,583 | 🐛 27 | 📅 2024-07-19
 * awesome-purescript/
   * passy/- [README.md](http://github.com/passy/awesome-purescript/blob/master/README.md) ⭐ 483 | 🐛 9 | 📅 2022-11-30
 * awesome-pycharm/
@@ -1110,7 +1110,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-pytest/
   * augustogoulart/- [README.md](http://github.com/augustogoulart/awesome-pytest/blob/master/README.md) ⭐ 576 | 🐛 5 | 📅 2026-06-24
 * awesome-python/
-  * vinta/- [README.md](http://github.com/vinta/awesome-python/blob/master/README.md) ⭐ 324,693 | 🐛 20 | 🌐 Python | 📅 2026-10-02
+  * vinta/- [README.md](http://github.com/vinta/awesome-python/blob/master/README.md) ⭐ 324,779 | 🐛 21 | 🌐 Python | 📅 2026-10-02
 * awesome-python-data-science/
   * krzjoa/- [README.md](http://github.com/krzjoa/awesome-python-data-science/blob/master/README.md) ⭐ 3,606 | 🐛 22 | 📅 2026-04-13
 * awesome-python-in-education/
@@ -1126,15 +1126,15 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-pytorch-chinese/
   * intermt/- [README.md](http://github.com/intermt/awesome-pytorch-chinese/blob/master/README.md) ⭐ 4,786 | 🐛 3 | 🌐 Python | 📅 2019-08-14
 * awesome-pytorch-list/
-  * bharathgs/- [README.md](http://github.com/bharathgs/awesome-pytorch-list/blob/master/README.md) ⭐ 16,687 | 🐛 27 | 📅 2026-09-22
+  * bharathgs/- [README.md](http://github.com/bharathgs/awesome-pytorch-list/blob/master/README.md) ⭐ 16,688 | 🐛 27 | 📅 2026-09-22
 * awesome-qa/
-  * seriousran/- [README.md](http://github.com/seriousran/awesome-qa/blob/master/README.md) ⭐ 769 | 🐛 1 | 📅 2022-01-13
+  * seriousran/- [README.md](http://github.com/seriousran/awesome-qa/blob/master/README.md) ⭐ 770 | 🐛 1 | 📅 2022-01-13
 * awesome-qt/
   * jessetg/- [README.md](http://github.com/jessetg/awesome-qt/blob/master/README.md) ⚠️ Archived
 * awesome-qt-qml/
   * mikalv/- [README.md](http://github.com/mikalv/awesome-qt-qml/blob/master/README.md) ⭐ 2,616 | 🐛 4 | 📅 2026-09-01
 * awesome-quant/
-  * wilsonfreitas/- [README.md](http://github.com/wilsonfreitas/awesome-quant/blob/master/README.md) ⭐ 29,926 | 🐛 107 | 🌐 HTML | 📅 2026-10-02
+  * wilsonfreitas/- [README.md](http://github.com/wilsonfreitas/awesome-quant/blob/master/README.md) ⭐ 29,935 | 🐛 109 | 🌐 HTML | 📅 2026-10-03
 * awesome-quant-machine-learning-trading/
   * grananqvist/- [README.md](http://github.com/grananqvist/awesome-quant-machine-learning-trading/blob/master/README.md) ⭐ 4,035 | 🐛 23 | 📅 2025-05-21
 * awesome-quantum-computing/
@@ -1144,7 +1144,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-quickapp/
   * quickappdev/- [README.md](http://github.com/quickappdev/awesome-quickapp/blob/master/README.md) ⭐ 462 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-17
 * awesome-r/
-  * qinwf/- [README.md](http://github.com/qinwf/awesome-r/blob/master/README.md) ⭐ 6,515 | 🐛 28 | 🌐 R | 📅 2025-09-18
+  * qinwf/- [README.md](http://github.com/qinwf/awesome-r/blob/master/README.md) ⭐ 6,516 | 🐛 28 | 🌐 R | 📅 2025-09-18
 * awesome-racket/
   * avelino/- [README.md](http://github.com/avelino/awesome-racket/blob/master/README.md) ⭐ 507 | 🐛 0 | 🌐 Racket | 📅 2023-06-24
 * awesome-radare2/
@@ -1154,7 +1154,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-rancher/
   * jmreicha/- [README.md](http://github.com/jmreicha/awesome-rancher/blob/master/README.md) ⭐ 284 | 🐛 2 | 📅 2019-05-26
 * awesome-raspberry-pi/
-  * thibmaek/- [README.md](http://github.com/thibmaek/awesome-raspberry-pi/blob/master/README.md) ⭐ 16,943 | 🐛 32 | 🌐 Shell | 📅 2026-10-02
+  * thibmaek/- [README.md](http://github.com/thibmaek/awesome-raspberry-pi/blob/master/README.md) ⭐ 16,945 | 🐛 32 | 🌐 Shell | 📅 2026-10-02
 * awesome-ray-tracing/
   * dannyfritz/- [README.md](http://github.com/dannyfritz/awesome-ray-tracing/blob/master/README.md) ⭐ 655 | 🐛 0 | 📅 2026-09-18
 * awesome-react-360/
@@ -1162,13 +1162,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-react-bootstrap-components/
   * hermanya/- [README.md](http://github.com/hermanya/awesome-react-bootstrap-components/blob/master/README.md) ⭐ 627 | 🐛 2 | 📅 2019-10-30
 * awesome-react-components/
-  * brillout/- [README.md](http://github.com/brillout/awesome-react-components/blob/master/README.md) ⭐ 48,534 | 🐛 98 | 📅 2026-01-26
+  * brillout/- [README.md](http://github.com/brillout/awesome-react-components/blob/master/README.md) ⭐ 48,537 | 🐛 98 | 📅 2026-01-26
 * awesome-react-context/
   * diegohaz/- [README.md](http://github.com/diegohaz/awesome-react-context/blob/master/README.md) ⭐ 931 | 🐛 2 | 🌐 JavaScript | 📅 2023-01-23
 * awesome-react-graphql/
   * hasura/- [README.md](http://github.com/hasura/awesome-react-graphql/blob/master/README.md) ⭐ 747 | 🐛 3 | 📅 2020-12-22
 * awesome-react-hooks/
-  * rehooks/- [README.md](http://github.com/rehooks/awesome-react-hooks/blob/master/README.md) ⭐ 10,259 | 🐛 11 | 📅 2023-07-27
+  * rehooks/- [README.md](http://github.com/rehooks/awesome-react-hooks/blob/master/README.md) ⭐ 10,261 | 🐛 11 | 📅 2023-07-27
   * glauberfc/- [README.md](http://github.com/glauberfc/awesome-react-hooks/blob/master/README.md) ⭐ 1,227 | 🐛 15 | 📅 2024-03-16
 * awesome-react-native-education/
   * hsavit1/- [README.md](http://github.com/hsavit1/awesome-react-native-education/blob/master/README.md) ⭐ 678 | 🐛 2 | 📅 2019-08-13
@@ -1177,7 +1177,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-react-render-props/
   * jaredpalmer/- [README.md](http://github.com/jaredpalmer/awesome-react-render-props/blob/master/README.md) ⭐ 1,392 | 🐛 5 | 📅 2019-04-04
 * awesome-readme/
-  * matiassingers/- [README.md](http://github.com/matiassingers/awesome-readme/blob/master/README.md) ⭐ 21,528 | 🐛 2 | 📅 2026-09-28
+  * matiassingers/- [README.md](http://github.com/matiassingers/awesome-readme/blob/master/README.md) ⭐ 21,530 | 🐛 2 | 📅 2026-09-28
 * awesome-recommender-systems/
   * gaolinjie/- [README.md](http://github.com/gaolinjie/awesome-recommender-systems/blob/master/README.md) ⭐ 329 | 🐛 0 | 📅 2020-02-27
 * awesome-recsys-papers/
@@ -1195,22 +1195,22 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-relation-extraction/
   * roomylee/- [README.md](http://github.com/roomylee/awesome-relation-extraction/blob/master/README.md) ⭐ 1,224 | 🐛 3 | 📅 2022-01-27
 * awesome-remarkable/
-  * rehackable/- [README.md](http://github.com/rehackable/awesome-remarkable/blob/master/README.md) ⭐ 7,729 | 🐛 17 | 📅 2026-09-09
+  * rehackable/- [README.md](http://github.com/rehackable/awesome-remarkable/blob/master/README.md) ⭐ 7,730 | 🐛 17 | 📅 2026-09-09
 * awesome-remote-job/
-  * lukasz-madon/- [README.md](http://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) ⭐ 49,159 | 🐛 110 | 📅 2026-09-21
+  * lukasz-madon/- [README.md](http://github.com/lukasz-madon/awesome-remote-job/blob/master/README.md) ⭐ 49,171 | 🐛 110 | 📅 2026-09-21
 * awesome-remote-sensing-change-detection/
   * wenhwu/- [README.md](http://github.com/wenhwu/awesome-remote-sensing-change-detection/blob/master/README.md) ⭐ 2,347 | 🐛 2 | 📅 2026-09-09
 * awesome-research/
-  * emptymalei/- [README.md](http://github.com/emptymalei/awesome-research/blob/master/README.md) ⭐ 2,780 | 🐛 20 | 📅 2026-05-19
+  * emptymalei/- [README.md](http://github.com/emptymalei/awesome-research/blob/master/README.md) ⭐ 2,781 | 🐛 20 | 📅 2026-05-19
 * awesome-resources/
-  * lyfeyaj/- [README.md](http://github.com/lyfeyaj/awesome-resources/blob/master/README.md) ⭐ 1,750 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
+  * lyfeyaj/- [README.md](http://github.com/lyfeyaj/awesome-resources/blob/master/README.md) ⭐ 1,751 | 🐛 10 | 🌐 HTML | 📅 2022-12-17
 * awesome-rest/
   * marmelab/- [README.md](http://github.com/marmelab/awesome-rest/blob/master/README.md) ⭐ 3,918 | 🐛 13 | 📅 2026-09-23
 * awesome-ripple/
   * vhpoet/- [README.md](http://github.com/vhpoet/awesome-ripple/blob/master/README.md) ⭐ 199 | 🐛 2 | 📅 2021-07-02
 * awesome-roadmaps/
-  * liuchong/- [README.md](http://github.com/liuchong/awesome-roadmaps/blob/master/README.md) ⭐ 7,374 | 🐛 4 | 📅 2026-08-03
-  * orsanawwad/- [README.md](http://github.com/orsanawwad/awesome-roadmaps/blob/master/README.md) ⭐ 1,987 | 🐛 9 | 📅 2023-03-02
+  * liuchong/- [README.md](http://github.com/liuchong/awesome-roadmaps/blob/master/README.md) ⭐ 7,376 | 🐛 4 | 📅 2026-08-03
+  * orsanawwad/- [README.md](http://github.com/orsanawwad/awesome-roadmaps/blob/master/README.md) ⭐ 1,988 | 🐛 9 | 📅 2023-03-02
 * awesome-robotic-tooling/
   * ly0n/- [README.md](http://github.com/ly0n/awesome-robotic-tooling/blob/master/README.md) ⭐ 3,896 | 🐛 13 | 📅 2023-11-20
 * awesome-robotics/
@@ -1224,13 +1224,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-rsocket/
   * linux-china/- [README.md](http://github.com/linux-china/awesome-rsocket/blob/master/README.md) ⭐ 193 | 🐛 1 | 📅 2022-07-13
 * awesome-ruby/
-  * markets/- [README.md](http://github.com/markets/awesome-ruby/blob/master/README.md) ⭐ 14,163 | 🐛 9 | 📅 2026-10-01
+  * markets/- [README.md](http://github.com/markets/awesome-ruby/blob/master/README.md) ⭐ 14,164 | 🐛 9 | 📅 2026-10-01
 * awesome-rubymotion/
   * motion-open-source/- [README.md](http://github.com/motion-open-source/awesome-rubymotion/blob/master/README.md)
 * awesome-russian-it/
   * unchase/- [README.md](http://github.com/unchase/awesome-russian-it/blob/master/README.md) ⭐ 816 | 🐛 6 | 🌐 HTML | 📅 2025-01-16
 * awesome-rust/
-  * rust-unofficial/- [README.md](http://github.com/rust-unofficial/awesome-rust/blob/master/README.md) ⭐ 59,644 | 🐛 9 | 🌐 Rust | 📅 2026-10-01
+  * rust-unofficial/- [README.md](http://github.com/rust-unofficial/awesome-rust/blob/master/README.md) ⭐ 59,657 | 🐛 9 | 🌐 Rust | 📅 2026-10-01
 * awesome-rxjava/
   * eleventigers/- [README.md](http://github.com/eleventigers/awesome-rxjava/blob/master/README.md) ⭐ 305 | 🐛 1 | 📅 2019-01-09
 * awesome-rxjs/
@@ -1244,7 +1244,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-scala-native/
   * tindzk/- [README.md](http://github.com/tindzk/awesome-scala-native/blob/master/README.md) ⭐ 279 | 🐛 1 | 📅 2026-09-26
 * awesome-scalability/
-  * binhnguyennus/- [README.md](http://github.com/binhnguyennus/awesome-scalability/blob/master/README.md) ⭐ 74,476 | 🐛 30 | 📅 2026-01-04
+  * binhnguyennus/- [README.md](http://github.com/binhnguyennus/awesome-scalability/blob/master/README.md) ⭐ 74,492 | 🐛 30 | 📅 2026-01-04
 * awesome-scene-understanding/
   * bertjiazheng/- [README.md](http://github.com/bertjiazheng/awesome-scene-understanding/blob/master/README.md) ⚠️ Archived
 * awesome-scientific-computing/
@@ -1268,9 +1268,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-self-supervised-papers/
   * sungman-cho/- [README.md](http://github.com/sungman-cho/awesome-self-supervised-papers/blob/master/README.md) ⭐ 590 | 🐛 1 | 📅 2023-03-14
 * awesome-selfhosted/
-  * awesome-selfhosted/- [README.md](http://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md) ⭐ 323,386 | 🐛 0 | 📅 2026-10-02
+  * awesome-selfhosted/- [README.md](http://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md) ⭐ 323,478 | 🐛 0 | 📅 2026-10-02
 * awesome-semantic-web/
-  * semantalytics/- [README.md](http://github.com/semantalytics/awesome-semantic-web/blob/master/README.md) ⭐ 1,700 | 🐛 32 | 📅 2026-09-28
+  * semantalytics/- [README.md](http://github.com/semantalytics/awesome-semantic-web/blob/master/README.md) ⭐ 1,700 | 🐛 31 | 📅 2026-10-02
 * awesome-seml/
   * se-ml/- [README.md](http://github.com/se-ml/awesome-seml/blob/master/README.md) ⭐ 1,373 | 🐛 10 | 📅 2024-03-26
 * awesome-sentence-embedding/
@@ -1280,13 +1280,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-servicemesh/
   * servicemesher/- [README.md](http://github.com/servicemesher/awesome-servicemesh/blob/master/README.md) ⭐ 322 | 🐛 1 | 🌐 Makefile | 📅 2026-04-24
 * awesome-shell/
-  * alebcay/- [README.md](http://github.com/alebcay/awesome-shell/blob/master/README.md) ⭐ 37,703 | 🐛 188 | 📅 2025-08-28
+  * alebcay/- [README.md](http://github.com/alebcay/awesome-shell/blob/master/README.md) ⭐ 37,708 | 🐛 188 | 📅 2025-08-28
 * awesome-shiny-extensions/
-  * nanxstats/- [README.md](http://github.com/nanxstats/awesome-shiny-extensions/blob/master/README.md) ⭐ 1,682 | 🐛 0 | 🌐 R | 📅 2026-09-18
+  * nanxstats/- [README.md](http://github.com/nanxstats/awesome-shiny-extensions/blob/master/README.md) ⭐ 1,683 | 🐛 0 | 🌐 R | 📅 2026-09-18
 * awesome-shodan-queries/
-  * jakejarvis/- [README.md](http://github.com/jakejarvis/awesome-shodan-queries/blob/master/README.md) ⭐ 7,759 | 🐛 13 | 📅 2024-05-27
+  * jakejarvis/- [README.md](http://github.com/jakejarvis/awesome-shodan-queries/blob/master/README.md) ⭐ 7,760 | 🐛 13 | 📅 2024-05-27
 * awesome-shopify/
-  * julionc/- [README.md](http://github.com/julionc/awesome-shopify/blob/master/README.md) ⭐ 1,288 | 🐛 13 | 📅 2026-10-01
+  * julionc/- [README.md](http://github.com/julionc/awesome-shopify/blob/master/README.md) ⭐ 1,289 | 🐛 11 | 📅 2026-10-02
 * awesome-shopware/
   * shyim/- [README.md](http://github.com/shyim/awesome-shopware/blob/master/README.md) ⭐ 140 | 🐛 2 | 📅 2024-11-11
 * awesome-sites/
@@ -1301,9 +1301,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-smarthome/
   * pfalcon/- [README.md](http://github.com/pfalcon/awesome-smarthome/blob/master/README.md) ⭐ 562 | 🐛 5 | 📅 2022-06-15
 * awesome-soccer-analytics/
-  * matiasmascioto/- [README.md](http://github.com/matiasmascioto/awesome-soccer-analytics/blob/master/README.md) ⭐ 632 | 🐛 13 | 📅 2020-11-17
+  * matiasmascioto/- [README.md](http://github.com/matiasmascioto/awesome-soccer-analytics/blob/master/README.md) ⭐ 631 | 🐛 13 | 📅 2020-11-17
 * awesome-software-architecture/
-  * simskij/- [README.md](http://github.com/simskij/awesome-software-architecture/blob/master/README.md) ⭐ 2,900 | 🐛 3 | 📅 2026-04-19
+  * simskij/- [README.md](http://github.com/simskij/awesome-software-architecture/blob/master/README.md) ⭐ 2,901 | 🐛 3 | 📅 2026-04-19
 * awesome-software-engineer-topics/
   * voxsim/- [README.md](http://github.com/voxsim/awesome-software-engineer-topics/blob/master/README.md) ⭐ 120 | 🐛 0 | 📅 2016-10-12
 * awesome-software-patreons/
@@ -1326,23 +1326,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-spring-cloud/
   * eacdy/- [README.md](http://github.com/eacdy/awesome-spring-cloud/blob/master/README.md) ⭐ 274 | 🐛 0 | 📅 2020-12-30
 * awesome-sre/
-  * dastergon/- [README.md](http://github.com/dastergon/awesome-sre/blob/master/README.md) ⭐ 13,673 | 🐛 113 | 📅 2025-08-28
+  * dastergon/- [README.md](http://github.com/dastergon/awesome-sre/blob/master/README.md) ⭐ 13,678 | 🐛 113 | 📅 2025-08-28
 * awesome-ssh/
   * moul/- [README.md](http://github.com/moul/awesome-ssh/blob/master/README.md) ⭐ 2,847 | 🐛 51 | 📅 2023-08-10
 * awesome-stacks/
-  * stackshareio/- [README.md](http://github.com/stackshareio/awesome-stacks/blob/master/README.md) ⭐ 3,933 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-08
+  * stackshareio/- [README.md](http://github.com/stackshareio/awesome-stacks/blob/master/README.md) ⭐ 3,934 | 🐛 13 | 🌐 JavaScript | 📅 2024-03-08
 * awesome-standard/
   * standard/- [README.md](http://github.com/standard/awesome-standard/blob/master/README.md) ⭐ 409 | 🐛 1 | 📅 2023-09-16
 * awesome-stars/
   * maguowei/- [README.md](http://github.com/maguowei/awesome-stars/blob/master/README.md) ⭐ 651 | 🐛 3 | 📅 2026-10-02
 * awesome-startup/
-  * krishmunot/- [README.md](http://github.com/krishmunot/awesome-startup/blob/master/README.md) ⭐ 2,359 | 🐛 19 | 📅 2026-08-26
+  * krishmunot/- [README.md](http://github.com/krishmunot/awesome-startup/blob/master/README.md) ⭐ 2,360 | 🐛 20 | 📅 2026-08-26
 * awesome-startup-credits/
-  * dakshshah96/- [README.md](http://github.com/dakshshah96/awesome-startup-credits/blob/master/README.md) ⭐ 2,963 | 🐛 18 | 📅 2024-08-10
+  * dakshshah96/- [README.md](http://github.com/dakshshah96/awesome-startup-credits/blob/master/README.md) ⭐ 2,964 | 🐛 18 | 📅 2024-08-10
 * awesome-startup-tools-list/
-  * ibexoft/- [README.md](http://github.com/ibexoft/awesome-startup-tools-list/blob/master/README.md) ⭐ 1,074 | 🐛 0 | 📅 2026-09-30
+  * ibexoft/- [README.md](http://github.com/ibexoft/awesome-startup-tools-list/blob/master/README.md) ⭐ 1,076 | 🐛 0 | 📅 2026-09-30
 * awesome-static-website-services/
-  * agarrharr/- [README.md](http://github.com/agarrharr/awesome-static-website-services/blob/master/README.md) ⭐ 1,989 | 🐛 39 | 📅 2026-04-20
+  * agarrharr/- [README.md](http://github.com/agarrharr/awesome-static-website-services/blob/master/README.md) ⭐ 1,990 | 🐛 39 | 📅 2026-04-20
 * awesome-status-pages/
   * ivbeg/- [README.md](http://github.com/ivbeg/awesome-status-pages/blob/master/README.md) ⭐ 3,820 | 🐛 41 | 📅 2026-07-29
 * awesome-steam/
@@ -1350,13 +1350,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-stimulusjs/
   * skatkov/- [README.md](http://github.com/skatkov/awesome-stimulusjs/blob/master/README.md) ⚠️ Archived
 * awesome-stock-resources/
-  * neutraltone/- [README.md](http://github.com/neutraltone/awesome-stock-resources/blob/master/README.md) ⭐ 14,575 | 🐛 100 | 🌐 Ruby | 📅 2026-02-11
+  * neutraltone/- [README.md](http://github.com/neutraltone/awesome-stock-resources/blob/master/README.md) ⭐ 14,577 | 🐛 100 | 🌐 Ruby | 📅 2026-02-11
 * awesome-storybook/
   * lauthieb/- [README.md](http://github.com/lauthieb/awesome-storybook/blob/master/README.md) ⭐ 422 | 🐛 1 | 📅 2025-06-13
 * awesome-streaming/
-  * manuzhang/- [README.md](http://github.com/manuzhang/awesome-streaming/blob/master/README.md) ⭐ 3,019 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01
+  * manuzhang/- [README.md](http://github.com/manuzhang/awesome-streaming/blob/master/README.md) ⭐ 3,020 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02
 * awesome-styled-components/
-  * styled-components/- [README.md](http://github.com/styled-components/awesome-styled-components/blob/master/README.md) ⭐ 3,465 | 🐛 7 | 📅 2023-05-19
+  * styled-components/- [README.md](http://github.com/styled-components/awesome-styled-components/blob/master/README.md) ⭐ 3,466 | 🐛 7 | 📅 2023-05-19
 * awesome-styleguides/
   * richardlitt/- [README.md](http://github.com/richardlitt/awesome-styleguides/blob/master/README.md) ⭐ 740 | 🐛 2 | 🌐 Shell | 📅 2019-04-18
 * awesome-stylelint/
@@ -1368,16 +1368,16 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-sweden/
   * buren/- [README.md](http://github.com/buren/awesome-sweden/blob/master/README.md) ⭐ 208 | 🐛 10 | 🌐 Shell | 📅 2026-04-21
 * awesome-swift/
-  * matteocrippa/- [README.md](http://github.com/matteocrippa/awesome-swift/blob/master/README.md) ⭐ 26,310 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01
-  * wolg/- [README.md](http://github.com/wolg/awesome-swift/blob/master/README.md) ⭐ 5,890 | 🐛 111 | 📅 2026-04-12
+  * matteocrippa/- [README.md](http://github.com/matteocrippa/awesome-swift/blob/master/README.md) ⭐ 26,309 | 🐛 16 | 🌐 Ruby | 📅 2026-09-01
+  * wolg/- [README.md](http://github.com/wolg/awesome-swift/blob/master/README.md) ⭐ 5,892 | 🐛 111 | 📅 2026-04-12
 * awesome-swift-education/
-  * hsavit1/- [README.md](http://github.com/hsavit1/awesome-swift-education/blob/master/README.md) ⭐ 5,793 | 🐛 2 | 📅 2018-07-01
+  * hsavit1/- [README.md](http://github.com/hsavit1/awesome-swift-education/blob/master/README.md) ⭐ 5,795 | 🐛 2 | 📅 2018-07-01
 * awesome-swift-playgrounds/
-  * uraimo/- [README.md](http://github.com/uraimo/awesome-swift-playgrounds/blob/master/README.md) ⭐ 4,388 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
+  * uraimo/- [README.md](http://github.com/uraimo/awesome-swift-playgrounds/blob/master/README.md) ⭐ 4,389 | 🐛 1 | 🌐 Swift | 📅 2026-04-02
 * awesome-sysadmin/
-  * n1trux/- [README.md](http://github.com/n1trux/awesome-sysadmin/blob/master/README.md) ⭐ 35,318 | 🐛 0 | 📅 2026-09-17
+  * n1trux/- [README.md](http://github.com/n1trux/awesome-sysadmin/blob/master/README.md) ⭐ 35,319 | 🐛 0 | 📅 2026-09-17
 * awesome-tailwindcss/
-  * aniftyco/- [README.md](http://github.com/aniftyco/awesome-tailwindcss/blob/master/README.md) ⭐ 15,196 | 🐛 0 | 📅 2026-08-14
+  * aniftyco/- [README.md](http://github.com/aniftyco/awesome-tailwindcss/blob/master/README.md) ⭐ 15,198 | 🐛 0 | 📅 2026-08-14
 * awesome-taleb/
   * cetiny/- [README.md](http://github.com/cetiny/awesome-taleb/blob/master/README.md) ⭐ 362 | 🐛 1 | 📅 2024-02-15
 * awesome-tap/
@@ -1399,9 +1399,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-thesis/
   * ocean1/- [README.md](http://github.com/ocean1/awesome-thesis/blob/master/README.md) ⭐ 658 | 🐛 5 | 📅 2026-03-05
 * awesome-threat-detection/
-  * 0x4d31/- [README.md](http://github.com/0x4d31/awesome-threat-detection/blob/master/README.md) ⭐ 4,736 | 🐛 61 | 📅 2026-01-05
+  * 0x4d31/- [README.md](http://github.com/0x4d31/awesome-threat-detection/blob/master/README.md) ⭐ 4,737 | 🐛 61 | 📅 2026-01-05
 * awesome-threat-intelligence/
-  * hslatman/- [README.md](http://github.com/hslatman/awesome-threat-intelligence/blob/master/README.md) ⭐ 10,692 | 🐛 143 | 📅 2026-05-31
+  * hslatman/- [README.md](http://github.com/hslatman/awesome-threat-intelligence/blob/master/README.md) ⭐ 10,694 | 🐛 143 | 📅 2026-05-31
 * awesome-threat-modelling/
   * hysnsec/- [README.md](http://github.com/hysnsec/awesome-threat-modelling/blob/master/README.md) ⭐ 1,821 | 🐛 24 | 🌐 Dockerfile | 📅 2024-08-02
 * awesome-tikz/
@@ -1413,13 +1413,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-tokyo/
   * nodejsjp/- [README.md](http://github.com/nodejsjp/awesome-tokyo/blob/master/README.md) ⭐ 100 | 🐛 3 | 📅 2018-11-26
 * awesome-toolkits/
-  * reyronald/- [README.md](http://github.com/reyronald/awesome-toolkits/blob/master/README.md) ⭐ 549 | 🐛 3 | 📅 2019-12-22
+  * reyronald/- [README.md](http://github.com/reyronald/awesome-toolkits/blob/master/README.md) ⭐ 550 | 🐛 3 | 📅 2019-12-22
 * awesome-tor/
-  * ajvb/- [README.md](http://github.com/ajvb/awesome-tor/blob/master/README.md) ⭐ 509 | 🐛 1 | 📅 2026-09-23
+  * ajvb/- [README.md](http://github.com/ajvb/awesome-tor/blob/master/README.md) ⭐ 510 | 🐛 1 | 📅 2026-09-23
 * awesome-transit/
   * cutr-at-usf/- [README.md](http://github.com/cutr-at-usf/awesome-transit/blob/master/README.md) ⭐ 1,849 | 🐛 18 | 📅 2026-09-21
 * awesome-travel/
-  * unseen1980/- [README.md](http://github.com/unseen1980/awesome-travel/blob/master/README.md) ⭐ 378 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-28
+  * unseen1980/- [README.md](http://github.com/unseen1980/awesome-travel/blob/master/README.md) ⭐ 379 | 🐛 19 | 🌐 TypeScript | 📅 2026-09-28
 * awesome-ttygames/
   * ligurio/- [README.md](http://github.com/ligurio/awesome-ttygames/blob/master/README.md) ⭐ 1,028 | 🐛 15 | 🌐 HTML | 📅 2026-09-15
 * awesome-twitter-bots/
@@ -1429,17 +1429,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-typescript-projects/
   * brookshi/- [README.md](http://github.com/brookshi/awesome-typescript-projects/blob/master/README.md) ⭐ 897 | 🐛 8 | 🌐 TypeScript | 📅 2023-06-13
 * awesome-typography/
-  * jolg42/- [README.md](http://github.com/jolg42/awesome-typography/blob/master/README.md) ⭐ 1,539 | 🐛 9 | 📅 2026-09-24
+  * jolg42/- [README.md](http://github.com/jolg42/awesome-typography/blob/master/README.md) ⭐ 1,540 | 🐛 9 | 📅 2026-09-24
 * awesome-ue4/
   * terrehbyte/- [README.md](http://github.com/terrehbyte/awesome-ue4/blob/master/README.md) ⭐ 802 | 🐛 8 | 📅 2023-09-19
 * awesome-ui-component-library/
-  * anubhavsrivastava/- [README.md](http://github.com/anubhavsrivastava/awesome-ui-component-library/blob/master/README.md) ⭐ 1,723 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02
+  * anubhavsrivastava/- [README.md](http://github.com/anubhavsrivastava/awesome-ui-component-library/blob/master/README.md) ⭐ 1,724 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-02
 * awesome-uikit/
-  * jaywcjlove/- [README.md](http://github.com/jaywcjlove/awesome-uikit/blob/master/README.md) ⭐ 1,629 | 🐛 1 | 🌐 Dockerfile | 📅 2026-10-01
+  * jaywcjlove/- [README.md](http://github.com/jaywcjlove/awesome-uikit/blob/master/README.md) ⭐ 1,630 | 🐛 1 | 🌐 Dockerfile | 📅 2026-10-01
 * awesome-umbraco/
   * umbraco-community/- [README.md](http://github.com/umbraco-community/awesome-umbraco/blob/master/README.md) ⭐ 221 | 🐛 4 | 📅 2022-08-11
 * awesome-uncopyright/
-  * johnjago/- [README.md](http://github.com/johnjago/awesome-uncopyright/blob/master/README.md) ⭐ 638 | 🐛 4 | 📅 2024-05-30
+  * johnjago/- [README.md](http://github.com/johnjago/awesome-uncopyright/blob/master/README.md) ⭐ 639 | 🐛 4 | 📅 2024-05-30
 * awesome-unicode/
   * wisdom/- [README.md](http://github.com/wisdom/awesome-unicode/blob/master/README.md) ⭐ 985 | 🐛 12 | 🌐 JavaScript | 📅 2022-07-01
 * awesome-unique-id/
@@ -1465,13 +1465,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-vault-tools/
   * gites/- [README.md](http://github.com/gites/awesome-vault-tools/blob/master/README.md) ⭐ 314 | 🐛 2 | 📅 2023-05-09
 * awesome-video/
-  * krzemienski/- [README.md](http://github.com/krzemienski/awesome-video/blob/master/README.md) ⭐ 1,924 | 🐛 61 | 🌐 HTML | 📅 2026-07-20
+  * krzemienski/- [README.md](http://github.com/krzemienski/awesome-video/blob/master/README.md) ⭐ 1,924 | 🐛 62 | 🌐 HTML | 📅 2026-07-20
 * awesome-vim/
   * akrawchyk/- [README.md](http://github.com/akrawchyk/awesome-vim/blob/master/README.md) ⭐ 2,130 | 🐛 12 | 📅 2025-06-06
 * awesome-vm-exploit/
-  * winmin/- [README.md](http://github.com/winmin/awesome-vm-exploit/blob/master/README.md) ⭐ 612 | 🐛 0 | 📅 2026-03-18
+  * winmin/- [README.md](http://github.com/winmin/awesome-vm-exploit/blob/master/README.md) ⭐ 614 | 🐛 0 | 📅 2026-03-18
 * awesome-vscode/
-  * viatsko/- [README.md](http://github.com/viatsko/awesome-vscode/blob/master/README.md) ⭐ 29,090 | 🐛 71 | 🌐 JavaScript | 📅 2026-06-21
+  * viatsko/- [README.md](http://github.com/viatsko/awesome-vscode/blob/master/README.md) ⭐ 29,092 | 🐛 72 | 🌐 JavaScript | 📅 2026-06-21
 * awesome-vue/
   * rmjordas/- [README.md](http://github.com/rmjordas/awesome-vue/blob/master/README.md) ⭐ 323 | 🐛 5 | 🌐 JavaScript | 📅 2024-03-18
 * awesome-vue-composition-api/
@@ -1481,7 +1481,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-vulnerability-research/
   * sergey-pronin/- [README.md](http://github.com/sergey-pronin/awesome-vulnerability-research/blob/master/README.md) ⭐ 1,374 | 🐛 3 | 📅 2020-12-07
 * awesome-waf/
-  * 0xinfection/- [README.md](http://github.com/0xinfection/awesome-waf/blob/master/README.md) ⭐ 7,630 | 🐛 2 | 🌐 Python | 📅 2026-08-26
+  * 0xinfection/- [README.md](http://github.com/0xinfection/awesome-waf/blob/master/README.md) ⭐ 7,631 | 🐛 2 | 🌐 Python | 📅 2026-08-26
 * awesome-wagtail/
   * springload/- [README.md](http://github.com/springload/awesome-wagtail/blob/master/README.md) ⭐ 2,194 | 🐛 1 | 🌐 Python | 📅 2026-06-16
 * awesome-wardley-maps/
@@ -1489,21 +1489,21 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-wasi/
   * wasmerio/- [README.md](http://github.com/wasmerio/awesome-wasi/blob/master/README.md) ⭐ 557 | 🐛 2 | 📅 2025-09-30
 * awesome-wasm/
-  * mbasso/- [README.md](http://github.com/mbasso/awesome-wasm/blob/master/README.md) ⭐ 9,647 | 🐛 107 | 📅 2024-11-15
+  * mbasso/- [README.md](http://github.com/mbasso/awesome-wasm/blob/master/README.md) ⭐ 9,648 | 🐛 107 | 📅 2024-11-15
 * awesome-wasm-zh/
   * chai2010/- [README.md](http://github.com/chai2010/awesome-wasm-zh/blob/master/README.md) ⭐ 1,035 | 🐛 2 | 🌐 WebAssembly | 📅 2024-10-12
 * awesome-web-animation/
-  * sergey-pimenov/- [README.md](http://github.com/sergey-pimenov/awesome-web-animation/blob/master/README.md) ⭐ 1,583 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-20
+  * sergey-pimenov/- [README.md](http://github.com/sergey-pimenov/awesome-web-animation/blob/master/README.md) ⭐ 1,584 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-20
 * awesome-web-archiving/
   * iipc/- [README.md](http://github.com/iipc/awesome-web-archiving/blob/master/README.md) ⭐ 2,653 | 🐛 10 | 📅 2026-09-18
 * awesome-web-editor/
-  * xjh22222228/- [README.md](http://github.com/xjh22222228/awesome-web-editor/blob/master/README.md) ⭐ 899 | 🐛 0 | 🌐 Python | 📅 2026-10-01
+  * xjh22222228/- [README.md](http://github.com/xjh22222228/awesome-web-editor/blob/master/README.md) ⭐ 898 | 🐛 0 | 🌐 Python | 📅 2026-10-02
 * awesome-web-scraper/
   * duyetdev/- [README.md](http://github.com/duyetdev/awesome-web-scraper/blob/master/README.md) ⭐ 296 | 🐛 41 | 📅 2024-04-04
 * awesome-web-scraping/
-  * lorien/- [README.md](http://github.com/lorien/awesome-web-scraping/blob/master/README.md) ⭐ 8,167 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-19
+  * lorien/- [README.md](http://github.com/lorien/awesome-web-scraping/blob/master/README.md) ⭐ 8,167 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-19
 * awesome-web-security/
-  * qazbnm456/- [README.md](http://github.com/qazbnm456/awesome-web-security/blob/master/README.md) ⭐ 13,839 | 🐛 14 | 🌐 Python | 📅 2026-09-14
+  * qazbnm456/- [README.md](http://github.com/qazbnm456/awesome-web-security/blob/master/README.md) ⭐ 13,842 | 🐛 13 | 🌐 Python | 📅 2026-09-14
 * awesome-web-storage/
   * softvar/- [README.md](http://github.com/softvar/awesome-web-storage/blob/master/README.md) ⭐ 448 | 🐛 4 | 📅 2024-04-26
 * awesome-web-you-should-know/
@@ -1511,9 +1511,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-webaudio/
   * notthetup/- [README.md](http://github.com/notthetup/awesome-webaudio/blob/master/README.md) ⭐ 1,398 | 🐛 31 | 📅 2026-06-05
 * awesome-webauthn/
-  * herrjemand/- [README.md](http://github.com/herrjemand/awesome-webauthn/blob/master/README.md) ⭐ 1,854 | 🐛 4 | 📅 2026-08-10
+  * herrjemand/- [README.md](http://github.com/herrjemand/awesome-webauthn/blob/master/README.md) ⭐ 1,852 | 🐛 5 | 📅 2026-08-10
 * awesome-webextensions/
-  * fregante/- [README.md](http://github.com/fregante/awesome-webextensions/blob/master/README.md) ⭐ 1,514 | 🐛 1 | 📅 2026-09-16
+  * fregante/- [README.md](http://github.com/fregante/awesome-webextensions/blob/master/README.md) ⭐ 1,516 | 🐛 1 | 📅 2026-09-16
 * awesome-webgl/
   * sjfricke/- [README.md](http://github.com/sjfricke/awesome-webgl/blob/master/README.md) ⭐ 1,538 | 🐛 19 | 📅 2026-04-02
 * awesome-webpack/
@@ -1539,9 +1539,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-wordpress-gatsby/
   * henrikwirth/- [README.md](http://github.com/henrikwirth/awesome-wordpress-gatsby/blob/master/README.md) ⭐ 285 | 🐛 1 | 📅 2021-05-02
 * awesome-wpo/
-  * davidsonfellipe/- [README.md](http://github.com/davidsonfellipe/awesome-wpo/blob/master/README.md) ⭐ 9,106 | 🐛 35 | 📅 2026-07-28
+  * davidsonfellipe/- [README.md](http://github.com/davidsonfellipe/awesome-wpo/blob/master/README.md) ⭐ 9,104 | 🐛 35 | 📅 2026-07-28
 * awesome-wsl/
-  * sirredbeard/- [README.md](http://github.com/sirredbeard/awesome-wsl/blob/master/README.md) ⭐ 6,573 | 🐛 8 | 📅 2026-09-08
+  * sirredbeard/- [README.md](http://github.com/sirredbeard/awesome-wsl/blob/master/README.md) ⭐ 6,572 | 🐛 8 | 📅 2026-09-08
 * awesome-wysiwyg/
   * jefmari/- [README.md](http://github.com/jefmari/awesome-wysiwyg/blob/master/README.md) ⭐ 3,982 | 🐛 4 | 📅 2026-08-07
 * awesome-xamarin/
@@ -1549,25 +1549,25 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * awesome-xamarin-forms/
   * jsuarezruiz/- [README.md](http://github.com/jsuarezruiz/awesome-xamarin-forms/blob/master/README.md) ⭐ 1,221 | 🐛 2 | 🌐 C# | 📅 2023-08-06
 * awesome-xcode-extensions/
-  * theswiftdev/- [README.md](http://github.com/theswiftdev/awesome-xcode-extensions/blob/master/README.md) ⭐ 3,225 | 🐛 1 | 🌐 Ruby | 📅 2023-09-24
+  * theswiftdev/- [README.md](http://github.com/theswiftdev/awesome-xcode-extensions/blob/master/README.md) ⭐ 3,226 | 🐛 1 | 🌐 Ruby | 📅 2023-09-24
 * awesome-yara/
-  * inquest/- [README.md](http://github.com/inquest/awesome-yara/blob/master/README.md) ⭐ 4,280 | 🐛 1 | 📅 2026-06-15
+  * inquest/- [README.md](http://github.com/inquest/awesome-yara/blob/master/README.md) ⭐ 4,281 | 🐛 1 | 📅 2026-06-15
 * awesome-yew/
   * jetli/- [README.md](http://github.com/jetli/awesome-yew/blob/master/README.md) ⭐ 1,616 | 🐛 3 | 📅 2026-02-28
 * awesome-yourls/
   * yourls/- [README.md](http://github.com/yourls/awesome-yourls/blob/master/README.md) ⭐ 1,048 | 🐛 1 | 📅 2026-09-26
 * awesome-zsh-plugins/
-  * unixorn/- [README.md](http://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md) ⭐ 18,043 | 🐛 6 | 🌐 Shell | 📅 2026-10-02
+  * unixorn/- [README.md](http://github.com/unixorn/awesome-zsh-plugins/blob/master/README.md) ⭐ 18,044 | 🐛 6 | 🌐 Shell | 📅 2026-10-02
 * awesome4girls/
-  * cristianoliveira/- [README.md](http://github.com/cristianoliveira/awesome4girls/blob/master/README.md) ⭐ 658 | 🐛 7 | 🌐 Ruby | 📅 2024-05-17
+  * cristianoliveira/- [README.md](http://github.com/cristianoliveira/awesome4girls/blob/master/README.md) ⭐ 659 | 🐛 7 | 🌐 Ruby | 📅 2024-05-17
 * awesomebar/
   * florent37/- [README.md](http://github.com/florent37/awesomebar/blob/master/README.md) ⚠️ Archived
 * awesomecpp/
   * nwpuhq/- [README.md](http://github.com/nwpuhq/awesomecpp/blob/master/README.md) ⭐ 1,948 | 🐛 4 | 🌐 C++ | 📅 2022-07-27
 * awesomecsv/
-  * secretgeek/- [README.md](http://github.com/secretgeek/awesomecsv/blob/master/README.md) ⭐ 952 | 🐛 32 | 🌐 PowerShell | 📅 2026-06-11
+  * secretgeek/- [README.md](http://github.com/secretgeek/awesomecsv/blob/master/README.md) ⭐ 953 | 🐛 33 | 🌐 PowerShell | 📅 2026-06-11
 * awesomesearch/
-  * lockys/- [README.md](http://github.com/lockys/awesomesearch/blob/master/README.md) ⭐ 651 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-22
+  * lockys/- [README.md](http://github.com/lockys/awesomesearch/blob/master/README.md) ⭐ 652 | 🐛 7 | 🌐 JavaScript | 📅 2026-03-22
 * awesometextfieldswift/
   * aleksandrshoshiashvili/- [README.md](http://github.com/aleksandrshoshiashvili/awesometextfieldswift/blob/master/README.md) ⭐ 235 | 🐛 4 | 🌐 Swift | 📅 2019-05-14
 * awesome\_apis/
@@ -1591,12 +1591,12 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * blogs/
   * learn-anything/- [README.md](http://github.com/learn-anything/blogs/blob/master/README.md) ⭐ 533 | 🐛 8 | 📅 2024-01-02
 * bookmarks/
-  * morgangeek/- [README.md](http://github.com/morgangeek/bookmarks/blob/master/README.md) ⭐ 553 | 🐛 4 | 🌐 Go | 📅 2026-06-14
+  * morgangeek/- [README.md](http://github.com/morgangeek/bookmarks/blob/master/README.md) ⭐ 554 | 🐛 4 | 🌐 Go | 📅 2026-06-14
   * codepediaorg/- [README.md](http://github.com/codepediaorg/bookmarks/blob/master/README.md) ⭐ 461 | 🐛 9 | 📅 2023-09-26
 * books/
-  * learn-anything/- [README.md](http://github.com/learn-anything/books/blob/master/README.md) ⭐ 7,681 | 🐛 16 | 📅 2026-03-04
+  * learn-anything/- [README.md](http://github.com/learn-anything/books/blob/master/README.md) ⭐ 7,683 | 🐛 16 | 📅 2026-03-04
 * bots/
-  * hackerkid/- [README.md](http://github.com/hackerkid/bots/blob/master/README.md) ⭐ 1,562 | 🐛 10 | 📅 2024-02-23
+  * hackerkid/- [README.md](http://github.com/hackerkid/bots/blob/master/README.md) ⭐ 1,563 | 🐛 10 | 📅 2024-02-23
 * browser-resources/
   * azu/- [README.md](http://github.com/azu/browser-resources/blob/master/README.md) ⭐ 141 | 🐛 0 | 📅 2022-08-23
 * calendar/
@@ -1604,23 +1604,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * campcotcollectionview/
   * touchlane/- [README.md](http://github.com/touchlane/campcotcollectionview/blob/master/README.md) ⭐ 187 | 🐛 0 | 🌐 Swift | 📅 2022-06-15
 * channels/
-  * andrew--r/- [README.md](http://github.com/andrew--r/channels/blob/master/README.md) ⭐ 4,468 | 🐛 4 | 📅 2021-10-01
+  * andrew--r/- [README.md](http://github.com/andrew--r/channels/blob/master/README.md) ⭐ 4,469 | 🐛 4 | 📅 2021-10-01
 * cheatsheet-god/
-  * olivierlaflamme/- [README.md](http://github.com/olivierlaflamme/cheatsheet-god/blob/master/README.md) ⭐ 5,645 | 🐛 7 | 📅 2024-12-12
+  * olivierlaflamme/- [README.md](http://github.com/olivierlaflamme/cheatsheet-god/blob/master/README.md) ⭐ 5,648 | 🐛 7 | 📅 2024-12-12
 * checklist-checklist/
   * huyingjie/- [README.md](http://github.com/huyingjie/checklist-checklist/blob/master/README.md) ⭐ 2,974 | 🐛 10 | 🌐 JavaScript | 📅 2023-04-20
 * chrome-extensions/
   * learn-anything/- [README.md](http://github.com/learn-anything/chrome-extensions/blob/master/README.md) ⭐ 480 | 🐛 45 | 📅 2026-03-03
 * clean-code-dotnet/
-  * thangchung/- [README.md](http://github.com/thangchung/clean-code-dotnet/blob/master/README.md) ⭐ 7,734 | 🐛 47 | 🌐 C# | 📅 2026-02-27
+  * thangchung/- [README.md](http://github.com/thangchung/clean-code-dotnet/blob/master/README.md) ⭐ 7,735 | 🐛 47 | 🌐 C# | 📅 2026-02-27
 * clock-shop/
   * drawcall/- [README.md](http://github.com/drawcall/clock-shop/blob/master/README.md) ⭐ 624 | 🐛 0 | 🌐 CSS | 📅 2024-10-14
 * cnblogs/
   * jiangxincode/- [README.md](http://github.com/jiangxincode/cnblogs/blob/master/README.md) ⭐ 520 | 🐛 0 | 🌐 HTML | 📅 2026-08-30
 * codeface/
-  * chrissimpkins/- [README.md](http://github.com/chrissimpkins/codeface/blob/master/README.md) ⭐ 6,518 | 🐛 25 | 🌐 Python | 📅 2020-09-19
+  * chrissimpkins/- [README.md](http://github.com/chrissimpkins/codeface/blob/master/README.md) ⭐ 6,519 | 🐛 25 | 🌐 Python | 📅 2020-09-19
 * colorful/
-  * siddharth11/- [README.md](http://github.com/siddharth11/colorful/blob/master/README.md) ⭐ 1,317 | 🐛 18 | 📅 2025-03-13
+  * siddharth11/- [README.md](http://github.com/siddharth11/colorful/blob/master/README.md) ⭐ 1,318 | 🐛 18 | 📅 2025-03-13
 * command-line-tools/
   * learn-anything/- [README.md](http://github.com/learn-anything/command-line-tools/blob/master/README.md) ⭐ 496 | 🐛 19 | 📅 2026-08-16
 * compile-time-regular-expressions/
@@ -1630,17 +1630,17 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * counter-interview\.dev/
   * oleg-koval/- [README.md](http://github.com/oleg-koval/counter-interview.dev/blob/master/README.md) ⚠️ Archived
 * coursebook/
-  * illinois-cs241/- [README.md](http://github.com/illinois-cs241/coursebook/blob/master/README.md) ⭐ 3,391 | 🐛 44 | 🌐 TeX | 📅 2026-10-02
+  * illinois-cs241/- [README.md](http://github.com/illinois-cs241/coursebook/blob/master/README.md) ⭐ 3,403 | 🐛 44 | 🌐 TeX | 📅 2026-10-02
 * courses/
-  * learn-anything/- [README.md](http://github.com/learn-anything/courses/blob/master/README.md) ⭐ 1,292 | 🐛 4 | 📅 2022-02-24
+  * learn-anything/- [README.md](http://github.com/learn-anything/courses/blob/master/README.md) ⭐ 1,293 | 🐛 4 | 📅 2022-02-24
 * cs-books/
   * ab1908/- [README.md](http://github.com/ab1908/cs-books/blob/master/README.md) ⭐ 460 | 🐛 5 | 📅 2021-07-26
 * csinva.github.io/
   * csinva/- [README.md](http://github.com/csinva/csinva.github.io/blob/master/README.md) ⭐ 622 | 🐛 1 | 🌐 HTML | 📅 2026-10-01
 * css-protips/
-  * allthingssmitty/- [README.md](http://github.com/allthingssmitty/css-protips/blob/master/README.md) ⭐ 30,286 | 🐛 1 | 📅 2026-09-23
+  * allthingssmitty/- [README.md](http://github.com/allthingssmitty/css-protips/blob/master/README.md) ⭐ 30,285 | 🐛 1 | 📅 2026-09-23
 * curated-lists/
-  * learn-anything/- [README.md](http://github.com/learn-anything/curated-lists/blob/master/README.md) ⭐ 944 | 🐛 2 | 📅 2023-11-13
+  * learn-anything/- [README.md](http://github.com/learn-anything/curated-lists/blob/master/README.md) ⭐ 945 | 🐛 2 | 📅 2023-11-13
 * d2-daily/
   * d2-projects/- [README.md](http://github.com/d2-projects/d2-daily/blob/master/README.md) ⭐ 135 | 🐛 37 | 🌐 CSS | 📅 2022-12-09
 * data-science-with-ruby/
@@ -1664,9 +1664,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * emoji/
   * wscats/- [README.md](http://github.com/wscats/emoji/blob/master/README.md) ⭐ 433 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-31
 * empathy-in-engineering/
-  * kimberlymunoz/- [README.md](http://github.com/kimberlymunoz/empathy-in-engineering/blob/master/README.md) ⭐ 580 | 🐛 5 | 📅 2016-07-29
+  * kimberlymunoz/- [README.md](http://github.com/kimberlymunoz/empathy-in-engineering/blob/master/README.md) ⭐ 581 | 🐛 5 | 📅 2016-07-29
 * fast-android-networking/
-  * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/fast-android-networking/blob/master/README.md) ⭐ 5,919 | 🐛 235 | 🌐 Java | 📅 2026-02-05
+  * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/fast-android-networking/blob/master/README.md) ⭐ 5,920 | 🐛 235 | 🌐 Java | 📅 2026-02-05
 * flatbuffer/
   * amitshekhariitbhu/- [README.md](http://github.com/amitshekhariitbhu/flatbuffer/blob/master/README.md) ⭐ 612 | 🐛 2 | 🌐 Java | 📅 2024-07-20
 * flutter\_firebase/
@@ -1682,11 +1682,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * foundational-knowledge-for-programmers/
   * err0r500/- [README.md](http://github.com/err0r500/foundational-knowledge-for-programmers/blob/master/README.md) ⭐ 177 | 🐛 1 | 📅 2025-10-20
 * free-tshirts-stickers-and-swag-for-developers/
-  * joonsang1994/- [README.md](http://github.com/joonsang1994/free-tshirts-stickers-and-swag-for-developers/blob/master/README.md) ⭐ 1,170 | 🐛 9 | 📅 2024-07-04
+  * joonsang1994/- [README.md](http://github.com/joonsang1994/free-tshirts-stickers-and-swag-for-developers/blob/master/README.md) ⭐ 1,171 | 🐛 9 | 📅 2024-07-04
 * frida-all-in-one/
   * hookmaster/- [README.md](http://github.com/hookmaster/frida-all-in-one/blob/master/README.md) ⭐ 3,149 | 🐛 6 | 🌐 HTML | 📅 2019-11-04
 * frontend-dev-bookmarks/
-  * dypsilon/- [README.md](http://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md) ⭐ 47,584 | 🐛 135 | 📅 2024-05-21
+  * dypsilon/- [README.md](http://github.com/dypsilon/frontend-dev-bookmarks/blob/master/README.md) ⭐ 47,585 | 🐛 135 | 📅 2024-05-21
 * frontenddaily/
   * kujian/- [README.md](http://github.com/kujian/frontenddaily/blob/master/README.md) ⭐ 2,385 | 🐛 1,618 | 🌐 HTML | 📅 2026-08-11
 * funmath/
@@ -1704,11 +1704,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * gitfolio/
   * imfunniee/- [README.md](http://github.com/imfunniee/gitfolio/blob/master/README.md) ⚠️ Archived
 * github-cheat-sheet/
-  * tiimgreen/- [README.md](http://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) ⭐ 59,410 | 🐛 50 | 📅 2024-04-15
+  * tiimgreen/- [README.md](http://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md) ⭐ 59,418 | 🐛 49 | 📅 2024-04-15
 * github-dark/
-  * stylishthemes/- [README.md](http://github.com/stylishthemes/github-dark/blob/master/README.md) ⭐ 9,983 | 🐛 53 | 🌐 CSS | 📅 2026-10-02
+  * stylishthemes/- [README.md](http://github.com/stylishthemes/github-dark/blob/master/README.md) ⭐ 9,985 | 🐛 53 | 🌐 CSS | 📅 2026-10-02
 * githubtrending/
-  * kujian/- [README.md](http://github.com/kujian/githubtrending/blob/master/README.md) ⭐ 382 | 🐛 908 | 📅 2025-02-21
+  * kujian/- [README.md](http://github.com/kujian/githubtrending/blob/master/README.md) ⭐ 383 | 🐛 908 | 📅 2025-02-21
 * gitstart/
   * rishabh-bansal/- [README.md](http://github.com/rishabh-bansal/gitstart/blob/master/README.md) ⭐ 499 | 🐛 2,655 | 🌐 JavaScript | 📅 2026-09-25
 * glidebitmappool/
@@ -1722,7 +1722,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * go-patterns/
   * tmrts/- [README.md](http://github.com/tmrts/go-patterns/blob/master/README.md) ⭐ 28,259 | 🐛 65 | 🌐 Go | 📅 2024-05-14
 * gobooks/
-  * dariubs/- [README.md](http://github.com/dariubs/gobooks/blob/master/README.md) ⭐ 19,701 | 🐛 0 | 🌐 Go | 📅 2026-07-13
+  * dariubs/- [README.md](http://github.com/dariubs/gobooks/blob/master/README.md) ⭐ 19,702 | 🐛 0 | 🌐 Go | 📅 2026-07-13
 * golang-open-source-projects/
   * hackstoic/- [README.md](http://github.com/hackstoic/golang-open-source-projects/blob/master/README.md) ⭐ 11,563 | 🐛 31 | 🌐 Go | 📅 2026-05-31
 * golang-tls/
@@ -1732,7 +1732,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * grbac/
   * storyicon/- [README.md](http://github.com/storyicon/grbac/blob/master/README.md) ⭐ 327 | 🐛 4 | 🌐 Go | 📅 2020-02-24
 * guides/
-  * narkoz/- [README.md](http://github.com/narkoz/guides/blob/master/README.md) ⭐ 2,426 | 🐛 3 | 📅 2025-07-02
+  * narkoz/- [README.md](http://github.com/narkoz/guides/blob/master/README.md) ⭐ 2,427 | 🐛 3 | 📅 2025-07-02
 * hacktoberfest/
   * joonsang1994/- [README.md](http://github.com/joonsang1994/hacktoberfest/blob/master/README.md) ⭐ 213 | 🐛 441 | 📅 2023-10-24
 * harmonyos/
@@ -1742,13 +1742,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * haskell-must-watch/
   * hzlmn/- [README.md](http://github.com/hzlmn/haskell-must-watch/blob/master/README.md) ⭐ 1,142 | 🐛 0 | 🌐 Haskell | 📅 2017-10-17
 * hellogithub/
-  * 521xueweihan/- [README.md](http://github.com/521xueweihan/hellogithub/blob/master/README.md) ⭐ 179,712 | 🐛 872 | 🌐 Python | 📅 2026-09-28
+  * 521xueweihan/- [README.md](http://github.com/521xueweihan/hellogithub/blob/master/README.md) ⭐ 179,765 | 🐛 877 | 🌐 Python | 📅 2026-09-28
 * htaccess/
-  * phanan/- [README.md](http://github.com/phanan/htaccess/blob/master/README.md) ⭐ 13,177 | 🐛 11 | 📅 2026-03-06
+  * phanan/- [README.md](http://github.com/phanan/htaccess/blob/master/README.md) ⭐ 13,178 | 🐛 11 | 📅 2026-03-06
 * hugo-awesome-identity/
   * posquit0/- [README.md](http://github.com/posquit0/hugo-awesome-identity/blob/master/README.md) ⭐ 706 | 🐛 2 | 🌐 HTML | 📅 2026-06-12
 * humhub/
-  * humhub/- [README.md](http://github.com/humhub/humhub/blob/master/README.md) ⭐ 6,747 | 🐛 809 | 🌐 PHP | 📅 2026-10-02
+  * humhub/- [README.md](http://github.com/humhub/humhub/blob/master/README.md) ⭐ 6,748 | 🐛 809 | 🌐 PHP | 📅 2026-10-03
 * ics-security-tools/
   * iti/- [README.md](http://github.com/iti/ics-security-tools/blob/master/README.md) ⭐ 2,048 | 🐛 2 | 🌐 HTML | 📅 2025-04-15
 * image-comparison/
@@ -1758,13 +1758,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * inspire/
   * noahbuscher/- [README.md](http://github.com/noahbuscher/inspire/blob/master/README.md) ⭐ 1,326 | 🐛 6 | 📅 2024-03-15
 * interview\_question\_for\_beginner/
-  * jaeyeophan/- [README.md](http://github.com/jaeyeophan/interview_question_for_beginner/blob/master/README.md) ⭐ 21,721 | 🐛 3 | 📅 2024-08-09
+  * jaeyeophan/- [README.md](http://github.com/jaeyeophan/interview_question_for_beginner/blob/master/README.md) ⭐ 21,720 | 🐛 3 | 📅 2024-08-09
 * ionic-collection/
   * thompsonemerson/- [README.md](http://github.com/thompsonemerson/ionic-collection/blob/master/README.md) ⭐ 104 | 🐛 0 | 🌐 HTML | 📅 2016-11-22
 * ionic3-awesome/
   * artdong/- [README.md](http://github.com/artdong/ionic3-awesome/blob/master/README.md) ⭐ 96 | 🐛 7 | 🌐 TypeScript | 📅 2023-10-08
 * ios-developer-tools/
-  * leomobiledeveloper/- [README.md](http://github.com/leomobiledeveloper/ios-developer-tools/blob/master/README.md) ⭐ 1,788 | 🐛 12 | 🌐 Swift | 📅 2024-06-08
+  * leomobiledeveloper/- [README.md](http://github.com/leomobiledeveloper/ios-developer-tools/blob/master/README.md) ⭐ 1,789 | 🐛 12 | 🌐 Swift | 📅 2024-06-08
 * ios-readme-template/
   * awesome-labs/- [README.md](http://github.com/awesome-labs/ios-readme-template/blob/master/README.md) ⭐ 220 | 🐛 0 | 📅 2025-05-10
 * jctools/
@@ -1772,11 +1772,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * jerverless/
   * jerverless/- [README.md](http://github.com/jerverless/jerverless/blob/master/README.md) ⚠️ Archived
 * jquery-tips-everyone-should-know/
-  * allthingssmitty/- [README.md](http://github.com/allthingssmitty/jquery-tips-everyone-should-know/blob/master/README.md) ⭐ 4,305 | 🐛 0 | 📅 2025-03-20
+  * allthingssmitty/- [README.md](http://github.com/allthingssmitty/jquery-tips-everyone-should-know/blob/master/README.md) ⭐ 4,304 | 🐛 0 | 📅 2025-03-20
 * js-regular-expression-awesome/
   * dunizb/- [README.md](http://github.com/dunizb/js-regular-expression-awesome/blob/master/README.md) ⚠️ Archived
 * kaggle-past-solutions/
-  * eliotandres/- [README.md](http://github.com/eliotandres/kaggle-past-solutions/blob/master/README.md) ⭐ 1,498 | 🐛 0 | 🌐 HTML | 📅 2019-12-23
+  * eliotandres/- [README.md](http://github.com/eliotandres/kaggle-past-solutions/blob/master/README.md) ⭐ 1,499 | 🐛 0 | 🌐 HTML | 📅 2019-12-23
 * knowledge/
   * f2e-awesome/- [README.md](http://github.com/f2e-awesome/knowledge/blob/master/README.md) ⭐ 1,966 | 🐛 1 | 🌐 JavaScript | 📅 2023-02-28
 * kotlin-in-action/
@@ -1790,9 +1790,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * list/
   * awesome-yii/- [README.md](http://github.com/awesome-yii/list/blob/master/README.md) ⭐ 361 | 🐛 3 | 📅 2018-05-21
 * lists/
-  * jnv/- [README.md](http://github.com/jnv/lists/blob/master/README.md) ⭐ 11,517 | 🐛 32 | 📅 2026-03-23
+  * jnv/- [README.md](http://github.com/jnv/lists/blob/master/README.md) ⭐ 11,520 | 🐛 32 | 📅 2026-03-23
 * low-resource-languages/
-  * richardlitt/- [README.md](http://github.com/richardlitt/low-resource-languages/blob/master/README.md) ⭐ 459 | 🐛 4 | 🌐 TeX | 📅 2026-06-26
+  * richardlitt/- [README.md](http://github.com/richardlitt/low-resource-languages/blob/master/README.md) ⭐ 459 | 🐛 2 | 🌐 TeX | 📅 2026-10-02
 * mac-quicklook/
   * haokaiyang/- [README.md](http://github.com/haokaiyang/mac-quicklook/blob/master/README.md) ⭐ 1,456 | 🐛 5 | 🌐 CSS | 📅 2026-04-01
 * machine-learning/
@@ -1800,23 +1800,23 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * machine-learning-surveys/
   * metrofun/- [README.md](http://github.com/metrofun/machine-learning-surveys/blob/master/README.md) ⭐ 1,409 | 🐛 3 | 🌐 JavaScript | 📅 2023-01-03
 * machine-learning-tutorials/
-  * ujjwalkarn/- [README.md](http://github.com/ujjwalkarn/machine-learning-tutorials/blob/master/README.md) ⭐ 18,242 | 🐛 49 | 📅 2024-06-12
+  * ujjwalkarn/- [README.md](http://github.com/ujjwalkarn/machine-learning-tutorials/blob/master/README.md) ⭐ 18,241 | 🐛 49 | 📅 2024-06-12
 * machine-learning-with-ruby/
   * arbox/- [README.md](http://github.com/arbox/machine-learning-with-ruby/blob/master/README.md) ⭐ 2,227 | 🐛 8 | 🌐 Ruby | 📅 2024-12-26
 * macos-apps/
-  * learn-anything/- [README.md](http://github.com/learn-anything/macos-apps/blob/master/README.md) ⭐ 839 | 🐛 85 | 📅 2026-09-09
+  * learn-anything/- [README.md](http://github.com/learn-anything/macos-apps/blob/master/README.md) ⭐ 840 | 🐛 87 | 📅 2026-09-09
 * magictools/
-  * ellisonleao/- [README.md](http://github.com/ellisonleao/magictools/blob/master/README.md) ⭐ 17,404 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26
+  * ellisonleao/- [README.md](http://github.com/ellisonleao/magictools/blob/master/README.md) ⭐ 17,407 | 🐛 27 | 🌐 Markdown | 📅 2026-09-26
 * material-design-data/
   * luosunce/- [README.md](http://github.com/luosunce/material-design-data/blob/master/README.md) ⭐ 1,904 | 🐛 0 | 🌐 Java | 📅 2023-03-16
 * mind-expanding-books/
-  * hackerkid/- [README.md](http://github.com/hackerkid/mind-expanding-books/blob/master/README.md) ⭐ 14,329 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
+  * hackerkid/- [README.md](http://github.com/hackerkid/mind-expanding-books/blob/master/README.md) ⭐ 14,331 | 🐛 33 | 🌐 JavaScript | 📅 2024-11-09
 * ml-recipes/
   * rougier/- [README.md](http://github.com/rougier/ml-recipes/blob/master/README.md) ⭐ 685 | 🐛 0 | 🌐 Python | 📅 2021-06-30
 * motion-ui-design/
-  * fliptheweb/- [README.md](http://github.com/fliptheweb/motion-ui-design/blob/master/README.md) ⭐ 930 | 🐛 3 | 📅 2026-05-15
+  * fliptheweb/- [README.md](http://github.com/fliptheweb/motion-ui-design/blob/master/README.md) ⭐ 932 | 🐛 3 | 📅 2026-05-15
 * movies-for-hackers/
-  * k4m4/- [README.md](http://github.com/k4m4/movies-for-hackers/blob/master/README.md) ⭐ 11,924 | 🐛 131 | 🌐 Shell | 📅 2024-08-01
+  * k4m4/- [README.md](http://github.com/k4m4/movies-for-hackers/blob/master/README.md) ⭐ 11,926 | 🐛 131 | 🌐 Shell | 📅 2024-08-01
 * my-awesome-ai-bookmarks/
   * goodrahstar/- [README.md](http://github.com/goodrahstar/my-awesome-ai-bookmarks/blob/master/README.md) ⭐ 286 | 🐛 2 | 📅 2024-07-10
 * my-infosec-awesome/
@@ -1824,7 +1824,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * my-ios/
   * nikitavoloboev/- [README.md](http://github.com/nikitavoloboev/my-ios/blob/master/README.md) ⭐ 1,465 | 🐛 0 | 🌐 Rust | 📅 2026-01-20
 * my-mac-os/
-  * nikitavoloboev/- [README.md](http://github.com/nikitavoloboev/my-mac-os/blob/master/README.md) ⭐ 21,113 | 🐛 0 | 🌐 Rust | 📅 2026-04-15
+  * nikitavoloboev/- [README.md](http://github.com/nikitavoloboev/my-mac-os/blob/master/README.md) ⭐ 21,112 | 🐛 0 | 🌐 Rust | 📅 2026-04-15
 * net\_widgets/
   * pltanton/- [README.md](http://github.com/pltanton/net_widgets/blob/master/README.md) ⭐ 175 | 🐛 3 | 🌐 Lua | 📅 2024-10-21
 * nginx-resources/
@@ -1838,11 +1838,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * open-computational-neuroscience-resources/
   * asoplata/- [README.md](http://github.com/asoplata/open-computational-neuroscience-resources/blob/master/README.md) ⭐ 716 | 🐛 5 | 📅 2026-03-15
 * open-source-ios-apps/
-  * dkhamsing/- [README.md](http://github.com/dkhamsing/open-source-ios-apps/blob/master/README.md) ⭐ 52,384 | 🐛 4 | 📅 2026-10-02
+  * dkhamsing/- [README.md](http://github.com/dkhamsing/open-source-ios-apps/blob/master/README.md) ⭐ 52,392 | 🐛 4 | 📅 2026-10-02
 * open-source-jobs/
   * t9tio/- [README.md](http://github.com/t9tio/open-source-jobs/blob/master/README.md) ⭐ 3,040 | 🐛 12 | 🌐 TypeScript | 📅 2026-09-11
 * open-source-mac-os-apps/
-  * serhii-londar/- [README.md](http://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md) ⭐ 50,617 | 🐛 352 | 📅 2026-09-10
+  * serhii-londar/- [README.md](http://github.com/serhii-londar/open-source-mac-os-apps/blob/master/README.md) ⭐ 50,620 | 🐛 357 | 📅 2026-09-10
 * open-source-xamarin-apps/
   * wcoder/- [README.md](http://github.com/wcoder/open-source-xamarin-apps/blob/master/README.md) ⚠️ Archived
 * osx-and-ios-security-awesome/
@@ -1850,13 +1850,13 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * osx-security-awesome/
   * kai5263499/- [README.md](http://github.com/kai5263499/osx-security-awesome/blob/master/README.md) ⭐ 790 | 🐛 0 | 📅 2026-06-27
 * papers-we-love/
-  * papers-we-love/- [README.md](http://github.com/papers-we-love/papers-we-love/blob/master/README.md) ⭐ 110,172 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
+  * papers-we-love/- [README.md](http://github.com/papers-we-love/papers-we-love/blob/master/README.md) ⭐ 110,189 | 🐛 4 | 🌐 Shell | 📅 2026-09-29
 * passw0rd/
   * djadmin/- [README.md](http://github.com/djadmin/passw0rd/blob/master/README.md) ⭐ 180 | 🐛 1 | 🌐 JavaScript | 📅 2018-04-01
 * pentesting-bible/
   * blacckhathaceekr/- [README.md](http://github.com/blacckhathaceekr/pentesting-bible/blob/master/README.md) ⭐ 13,976 | 🐛 28 | 📅 2023-04-03
 * personal-security-checklist/
-  * lissy93/- [README.md](http://github.com/lissy93/personal-security-checklist/blob/master/README.md) ⭐ 22,439 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-01
+  * lissy93/- [README.md](http://github.com/lissy93/personal-security-checklist/blob/master/README.md) ⭐ 22,441 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-01
 * php-awesome/
   * shockerli/- [README.md](http://github.com/shockerli/php-awesome/blob/master/README.md) ⭐ 685 | 🐛 0 | 📅 2022-09-22
 * php-must-watch/
@@ -1864,9 +1864,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * phpinspectionsea/
   * kalessil/- [README.md](http://github.com/kalessil/phpinspectionsea/blob/master/README.md) ⭐ 1,484 | 🐛 157 | 🌐 Java | 📅 2026-08-28
 * piral/
-  * smapiot/- [README.md](http://github.com/smapiot/piral/blob/master/README.md) ⭐ 1,930 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-29
+  * smapiot/- [README.md](http://github.com/smapiot/piral/blob/master/README.md) ⭐ 1,931 | 🐛 8 | 🌐 TypeScript | 📅 2026-09-29
 * placestopostyourstartup/
-  * mmccaff/- [README.md](http://github.com/mmccaff/placestopostyourstartup/blob/master/README.md) ⭐ 7,741 | 🐛 44 | 📅 2026-08-29
+  * mmccaff/- [README.md](http://github.com/mmccaff/placestopostyourstartup/blob/master/README.md) ⭐ 7,745 | 🐛 44 | 📅 2026-08-29
 * pomelo-cocos-creator-awesome/
   * tumobi/- [README.md](http://github.com/tumobi/pomelo-cocos-creator-awesome/blob/master/README.md) ⭐ 399 | 🐛 0 | 📅 2018-11-15
 * projectsoundtracks/
@@ -1880,7 +1880,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * python-snippets/
   * progrmoiz/- [README.md](http://github.com/progrmoiz/python-snippets/blob/master/README.md) ⭐ 561 | 🐛 13 | 🌐 Python | 📅 2022-08-23
 * qix/
-  * ty4z2008/- [README.md](http://github.com/ty4z2008/qix/blob/master/README.md) ⭐ 15,214 | 🐛 0 | 📅 2026-09-06
+  * ty4z2008/- [README.md](http://github.com/ty4z2008/qix/blob/master/README.md) ⭐ 15,216 | 🐛 0 | 📅 2026-09-06
 * reactnativematerials/
   * leomobiledeveloper/- [README.md](http://github.com/leomobiledeveloper/reactnativematerials/blob/master/README.md) ⭐ 718 | 🐛 0 | 📅 2019-12-06
 * research-papers/
@@ -1890,7 +1890,7 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * safari-extensions/
   * learn-anything/- [README.md](http://github.com/learn-anything/safari-extensions/blob/master/README.md) ⭐ 395 | 🐛 3 | 📅 2022-06-30
 * search-engine-optimization/
-  * marcobiedermann/- [README.md](http://github.com/marcobiedermann/search-engine-optimization/blob/master/README.md) ⭐ 2,787 | 🐛 36 | 📅 2025-02-24
+  * marcobiedermann/- [README.md](http://github.com/marcobiedermann/search-engine-optimization/blob/master/README.md) ⭐ 2,786 | 🐛 36 | 📅 2025-02-24
 * shareable-links/
   * vinkla/- [README.md](http://github.com/vinkla/shareable-links/blob/master/README.md)
 * show/
@@ -1902,21 +1902,21 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * spacevim/
   * spacevim/- [README.md](http://github.com/spacevim/spacevim/blob/master/README.md) ⚠️ Archived
 * spellbook-of-modern-webdev/
-  * dexteryy/- [README.md](http://github.com/dexteryy/spellbook-of-modern-webdev/blob/master/README.md) ⭐ 17,918 | 🐛 24 | 📅 2023-12-18
+  * dexteryy/- [README.md](http://github.com/dexteryy/spellbook-of-modern-webdev/blob/master/README.md) ⭐ 17,919 | 🐛 24 | 📅 2023-12-18
 * stackoverflow-dark/
   * stylishthemes/- [README.md](http://github.com/stylishthemes/stackoverflow-dark/blob/master/README.md) ⭐ 690 | 🐛 5 | 🌐 CSS | 📅 2023-11-28
 * static-analysis/
-  * analysis-tools-dev/- [README.md](http://github.com/analysis-tools-dev/static-analysis/blob/master/README.md) ⭐ 14,820 | 🐛 2 | 🌐 Rust | 📅 2026-10-02
+  * analysis-tools-dev/- [README.md](http://github.com/analysis-tools-dev/static-analysis/blob/master/README.md) ⭐ 14,821 | 🐛 2 | 🌐 Rust | 📅 2026-10-02
 * sublime-bookmarks/
   * dreikanter/- [README.md](http://github.com/dreikanter/sublime-bookmarks/blob/master/README.md) ⭐ 1,078 | 🐛 1 | 📅 2024-01-15
 * sublime-text-plugins-for-frontend-web-development/
   * jfilter/- [README.md](http://github.com/jfilter/sublime-text-plugins-for-frontend-web-development/blob/master/README.md) ⚠️ Archived
 * swag-for-dev/
-  * swapagarwal/- [README.md](http://github.com/swapagarwal/swag-for-dev/blob/master/README.md) ⭐ 4,394 | 🐛 79 | 🌐 JavaScript | 📅 2024-12-09
+  * swapagarwal/- [README.md](http://github.com/swapagarwal/swag-for-dev/blob/master/README.md) ⭐ 4,395 | 🐛 79 | 🌐 JavaScript | 📅 2024-12-09
 * swifterswift/
-  * swifterswift/- [README.md](http://github.com/swifterswift/swifterswift/blob/master/README.md) ⭐ 15,216 | 🐛 23 | 🌐 Swift | 📅 2026-09-26
+  * swifterswift/- [README.md](http://github.com/swifterswift/swifterswift/blob/master/README.md) ⭐ 15,218 | 🐛 23 | 🌐 Swift | 📅 2026-09-26
 * swiftui/
-  * ygit/- [README.md](http://github.com/ygit/swiftui/blob/master/README.md) ⭐ 1,306 | 🐛 0 | 📅 2026-05-27
+  * ygit/- [README.md](http://github.com/ygit/swiftui/blob/master/README.md) ⭐ 1,307 | 🐛 0 | 📅 2026-05-27
 * swipycell/
   * moritzsternemann/- [README.md](http://github.com/moritzsternemann/swipycell/blob/master/README.md) ⭐ 261 | 🐛 4 | 🌐 Swift | 📅 2023-08-30
 * technical-interview-megarepo/
@@ -1926,9 +1926,9 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * text\_mining\_resources/
   * stepthom/- [README.md](http://github.com/stepthom/text_mining_resources/blob/master/README.md) ⭐ 599 | 🐛 0 | 📅 2023-02-09
 * the-book-of-secret-knowledge/
-  * trimstray/- [README.md](http://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md) ⭐ 247,440 | 🐛 172 | 📅 2024-11-19
+  * trimstray/- [README.md](http://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md) ⭐ 247,532 | 🐛 172 | 📅 2024-11-19
 * the-documentation-compendium/
-  * kylelobo/- [README.md](http://github.com/kylelobo/the-documentation-compendium/blob/master/README.md) ⭐ 6,044 | 🐛 21 | 📅 2025-10-31
+  * kylelobo/- [README.md](http://github.com/kylelobo/the-documentation-compendium/blob/master/README.md) ⭐ 6,046 | 🐛 21 | 📅 2025-10-31
 * think-awesome/
   * thinkjs/- [README.md](http://github.com/thinkjs/think-awesome/blob/master/README.md) ⚠️ Archived
 * time-series-papers/
@@ -1940,15 +1940,15 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * treehouseshow/
   * mhm5000/- [README.md](http://github.com/mhm5000/treehouseshow/blob/master/README.md) ⭐ 169 | 🐛 0 | 📅 2020-09-06
 * tvlist-awesome-m3u-m3u8/
-  * billy21/- [README.md](http://github.com/billy21/tvlist-awesome-m3u-m3u8/blob/master/README.md) ⭐ 30,081 | 🐛 32 | 📅 2025-11-14
+  * billy21/- [README.md](http://github.com/billy21/tvlist-awesome-m3u-m3u8/blob/master/README.md) ⭐ 30,083 | 🐛 32 | 📅 2025-11-14
 * typography/
-  * deanhume/- [README.md](http://github.com/deanhume/typography/blob/master/README.md) ⭐ 714 | 🐛 0 | 📅 2026-08-09
+  * deanhume/- [README.md](http://github.com/deanhume/typography/blob/master/README.md) ⭐ 715 | 🐛 0 | 📅 2026-08-09
 * ui-design/
   * tipoqueno/- [README.md](http://github.com/tipoqueno/ui-design/blob/master/README.md) ⚠️ Archived
 * useful-java-links/
-  * vedenin/- [README.md](http://github.com/vedenin/useful-java-links/blob/master/README.md) ⭐ 6,205 | 🐛 19 | 🌐 Java | 📅 2026-05-08
+  * vedenin/- [README.md](http://github.com/vedenin/useful-java-links/blob/master/README.md) ⭐ 6,206 | 🐛 19 | 🌐 Java | 📅 2026-05-08
 * vim-galore/
-  * mhinz/- [README.md](http://github.com/mhinz/vim-galore/blob/master/README.md) ⭐ 18,008 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
+  * mhinz/- [README.md](http://github.com/mhinz/vim-galore/blob/master/README.md) ⭐ 18,009 | 🐛 13 | 🌐 Vim script | 📅 2023-12-22
 * vr-awesome/
   * vytek/- [README.md](http://github.com/vytek/vr-awesome/blob/master/README.md) ⭐ 501 | 🐛 2 | 📅 2023-01-23
 * vue-smooth-picker/
@@ -1960,11 +1960,11 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 * wasm-and-rust/
   * raphamorim/- [README.md](http://github.com/raphamorim/wasm-and-rust/blob/master/README.md) ⭐ 504 | 🐛 4 | 📅 2018-07-24
 * weekly/
-  * dt-fe/- [README.md](http://github.com/dt-fe/weekly/blob/master/README.md) ⭐ 31,244 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
+  * dt-fe/- [README.md](http://github.com/dt-fe/weekly/blob/master/README.md) ⭐ 31,247 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
 * wikipedia-dark/
-  * stylishthemes/- [README.md](http://github.com/stylishthemes/wikipedia-dark/blob/master/README.md) ⭐ 489 | 🐛 12 | 🌐 CSS | 📅 2024-09-14
+  * stylishthemes/- [README.md](http://github.com/stylishthemes/wikipedia-dark/blob/master/README.md) ⭐ 488 | 🐛 12 | 🌐 CSS | 📅 2024-09-14
 * xcode-defaults/
-  * ctreffs/- [README.md](http://github.com/ctreffs/xcode-defaults/blob/master/README.md) ⭐ 1,000 | 🐛 2 | 📅 2026-08-11
+  * ctreffs/- [README.md](http://github.com/ctreffs/xcode-defaults/blob/master/README.md) ⭐ 1,001 | 🐛 2 | 📅 2026-08-11
 * xd-awesome/
   * adobexd/- [README.md](http://github.com/adobexd/xd-awesome/blob/master/README.md) ⭐ 269 | 🐛 1 | 📅 2022-02-19
 * you-dont-know-js/
@@ -1978,4 +1978,4 @@ A: Submit an issue and we'll blacklist your awesome list from our system. :(
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
